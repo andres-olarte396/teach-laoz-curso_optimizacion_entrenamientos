@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1050">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1f2937"/>
+    </linearGradient>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity="0.35"/></filter>
+  </defs>
+  <rect width="1100" height="1050" fill="url(#bg)"/>
+
+  <text x="550" y="70" fill="#e2e8f0" font-size="38" font-family="Arial" text-anchor="middle">Velocity-Based Training (VBT)</text>
+  <text x="550" y="110" fill="#94a3b8" font-size="22" font-family="Arial" text-anchor="middle">Relación carga-velocidad · Zonas · Pérdida de velocidad</text>
+
+  <!-- Relación carga-velocidad -->
+  <g transform="translate(80,160)">
+    <rect x="0" y="0" width="940" height="320" rx="16" fill="#0b1220" stroke="#334155" filter="url(#shadow)"/>
+    <text x="470" y="35" fill="#e2e8f0" font-size="24" font-family="Arial" text-anchor="middle">Relación Carga-Velocidad (lineal)</text>
+    <!-- Ejes -->
+    <line x1="70" y1="260" x2="870" y2="260" stroke="#475569" stroke-width="3"/>
+    <line x1="70" y1="260" x2="70" y2="80" stroke="#475569" stroke-width="3"/>
+    <!-- Línea descendente -->
+    <polyline points="70,240 300,210 550,170 870,120" fill="none" stroke="url(#grad)" stroke-width="6"/>
+    <text x="880" y="270" fill="#94a3b8" font-size="16" font-family="Arial">Carga →</text>
+    <text x="40" y="90" fill="#94a3b8" font-size="16" font-family="Arial" transform="rotate(-90,40,90)">Velocidad ↑</text>
+  </g>
+
+  <!-- Zonas de velocidad -->
+  <g transform="translate(80,510)">
+    <rect x="0" y="0" width="450" height="460" rx="16" fill="#0b1220" stroke="#334155" filter="url(#shadow)"/>
+    <text x="225" y="35" fill="#e2e8f0" font-size="24" font-family="Arial" text-anchor="middle">Zonas de Velocidad</text>
+    <g transform="translate(30,70)">
+      <rect x="0" y="0" width="390" height="70" rx="10" fill="#22d3ee"/>
+      <text x="195" y="44" fill="#0f172a" font-size="20" font-family="Arial" text-anchor="middle">› 1.0 m/s · Velocidad (Potencia)</text>
+      <rect x="0" y="90" width="390" height="70" rx="10" fill="#60a5fa"/>
+      <text x="195" y="134" fill="#0f172a" font-size="20" font-family="Arial" text-anchor="middle">0.75–1.0 m/s · Fuerza-Velocidad</text>
+      <rect x="0" y="180" width="390" height="70" rx="10" fill="#0ea5e9"/>
+      <text x="195" y="224" fill="#0f172a" font-size="20" font-family="Arial" text-anchor="middle">0.5–0.75 m/s · Fuerza-Hipertrofia</text>
+      <rect x="0" y="270" width="390" height="70" rx="10" fill="#a78bfa"/>
+      <text x="195" y="314" fill="#0f172a" font-size="20" font-family="Arial" text-anchor="middle">‹ 0.5 m/s · Fuerza Máxima</text>
+      <rect x="0" y="360" width="390" height="70" rx="10" fill="#f59e0b"/>
+      <text x="195" y="404" fill="#0f172a" font-size="20" font-family="Arial" text-anchor="middle">MVT: Umbral mínimo antes del fallo</text>
+    </g>
+  </g>
+
+  <!-- Pérdida de velocidad -->
+  <g transform="translate(560,510)">
+    <rect x="0" y="0" width="460" height="460" rx="16" fill="#0b1220" stroke="#334155" filter="url(#shadow)"/>
+    <text x="230" y="35" fill="#e2e8f0" font-size="24" font-family="Arial" text-anchor="middle">Pérdida de Velocidad en Serie</text>
+    <g transform="translate(40,80)">
+      <text x="0" y="0" fill="#e2e8f0" font-size="20" font-family="Arial">Rep 1: 0.8 m/s</text>
+      <text x="0" y="40" fill="#e2e8f0" font-size="20" font-family="Arial">Rep X: 0.5 m/s (↓37%) → CORTA</text>
+      <text x="0" y="80" fill="#e2e8f0" font-size="20" font-family="Arial">Evita grinding ‹0.3 m/s</text>
+      <!-- Barra de pérdida -->
+      <rect x="0" y="120" width="380" height="20" rx="10" fill="#22d3ee"/>
+      <rect x="0" y="120" width="240" height="20" rx="10" fill="#a78bfa"/>
+      <text x="190" y="160" fill="#94a3b8" font-size="18" font-family="Arial" text-anchor="middle">20–40% pérdida óptima</text>
+    </g>
+  </g>
+
+  <text x="550" y="1020" fill="#64748b" font-size="16" font-family="Arial" text-anchor="middle">Módulo 4 · Tema 4.4 · teach-laoz</text>
+</svg>

@@ -6,6 +6,8 @@
 Pero la **Autorregulación** es escuchar al cuerpo usando una escala científica para ajustar la carga.
 Es la diferencia entre "Hoy no tengo ganas" (Vagancia) y "Hoy mi RPE 8 son 20kg menos que ayer" (Fisiología).
 
+![Autorregulación RPE/RIR](../../media/infografia_4.5_autorregulacion.svg)
+
 ## 1. RPE (Rating of Perceived Exertion) - Escala Borg Modificada
 
 Originalmente del 1 al 10, adaptada por Mike Tuchscherer para pesas.

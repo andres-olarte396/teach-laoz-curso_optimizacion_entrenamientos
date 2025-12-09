@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1000">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity="0.35"/></filter>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="1000" fill="url(#bg)"/>
+
+  <text x="550" y="70" fill="#e2e8f0" font-size="38" font-family="Arial" text-anchor="middle">Progresión y Descarga</text>
+  <text x="550" y="110" fill="#94a3b8" font-size="22" font-family="Arial" text-anchor="middle">Doble Progresión · Deload · Overreaching · Taper</text>
+
+  <!-- Doble progresión -->
+  <g transform="translate(80,160)">
+    <rect x="0" y="0" width="440" height="340" rx="16" fill="#0b1220" stroke="#334155" filter="url(#shadow)"/>
+    <text x="220" y="35" fill="#e2e8f0" font-size="24" font-family="Arial" text-anchor="middle">Doble Progresión</text>
+    <!-- Steps -->
+    <g transform="translate(40,70)">
+      <rect x="0" y="0" width="360" height="60" rx="10" fill="#0ea5e9"/>
+      <text x="180" y="38" fill="#0f172a" font-size="18" font-family="Arial" text-anchor="middle">Paso 1: 60kg x 8 reps</text>
+      <rect x="0" y="80" width="360" height="60" rx="10" fill="#22d3ee"/>
+      <text x="180" y="118" fill="#0f172a" font-size="18" font-family="Arial" text-anchor="middle">Paso 2: Mantener peso hasta 12 reps</text>
+      <rect x="0" y="160" width="360" height="60" rx="10" fill="#a78bfa"/>
+      <text x="180" y="198" fill="#0f172a" font-size="18" font-family="Arial" text-anchor="middle">Paso 3: Subir a 65kg y reiniciar</text>
+    </g>
+  </g>
+
+  <!-- Deload -->
+  <g transform="translate(560,160)">
+    <rect x="0" y="0" width="460" height="340" rx="16" fill="#0b1220" stroke="#334155" filter="url(#shadow)"/>
+    <text x="230" y="35" fill="#e2e8f0" font-size="24" font-family="Arial" text-anchor="middle">Deload Inteligente</text>
+    <g transform="translate(40,70)">
+      <rect x="0" y="0" width="380" height="60" rx="10" fill="#10b981"/>
+      <text x="190" y="38" fill="#0f172a" font-size="18" font-family="Arial" text-anchor="middle">Mantén intensidad · Reduce series 50%</text>
+      <rect x="0" y="80" width="380" height="60" rx="10" fill="#f59e0b"/>
+      <text x="190" y="118" fill="#0f172a" font-size="18" font-family="Arial" text-anchor="middle">RIR 4-5 · Técnica y movilidad</text>
+      <rect x="0" y="160" width="380" height="60" rx="10" fill="#ef4444"/>
+      <text x="190" y="198" fill="#0f172a" font-size="18" font-family="Arial" text-anchor="middle">Evita sofá: Deload activo</text>
+    </g>
+  </g>
+
+  <!-- Overreaching & Taper -->
+  <g transform="translate(80,540)">
+    <rect x="0" y="0" width="940" height="360" rx="16" fill="#0b1220" stroke="#334155" filter="url(#shadow)"/>
+    <text x="470" y="35" fill="#e2e8f0" font-size="24" font-family="Arial" text-anchor="middle">Functional Overreaching & Taper</text>
+    <g transform="translate(40,80)">
+      <rect x="0" y="0" width="860" height="70" rx="10" fill="#f59e0b"/>
+      <text x="430" y="45" fill="#0f172a" font-size="18" font-family="Arial" text-anchor="middle">Semana 4: +25% volumen (más allá del MRV)</text>
+      <rect x="0" y="90" width="860" height="70" rx="10" fill="#10b981"/>
+      <text x="430" y="135" fill="#0f172a" font-size="18" font-family="Arial" text-anchor="middle">Semana 5: Super Deload</text>
+      <rect x="0" y="180" width="860" height="70" rx="10" fill="#22d3ee"/>
+      <text x="430" y="225" fill="#0f172a" font-size="18" font-family="Arial" text-anchor="middle">Semana 6: Rebote · Supercompensación</text>
+    </g>
+  </g>
+
+  <text x="550" y="970" fill="#64748b" font-size="16" font-family="Arial" text-anchor="middle">Módulo 4 · Tema 4.3 · teach-laoz</text>
+</svg>

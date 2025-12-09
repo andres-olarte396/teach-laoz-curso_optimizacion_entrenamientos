@@ -6,6 +6,8 @@ No entrenas en el vacío. Cada vez que tocas una pesa, estás manipulando cuatro
 El error del novato es querer subir todas a la vez.
 El experto sabe que son vasos comunicantes. Si subes una, otra debe bajar.
 
+![Variables del Entrenamiento](../../media/infografia_4.1_variables_entrenamiento.svg)
+
 ## 1. Volumen: Los "Landmarks" de Mike Israetel
 
 El volumen es la cantidad total de trabajo duro. Pero, ¿cuánto es "mucho" y cuánto es "poco"?

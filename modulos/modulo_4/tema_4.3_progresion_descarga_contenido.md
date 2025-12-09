@@ -6,6 +6,8 @@ Para dar un gran salto, necesitas doblar las rodillas (bajar) antes de impulsart
 En el entrenamiento es igual. No puedes añadir 2kg a la barra cada semana para siempre (si no, todos levantaríamos 1000kg en 5 años).
 La clave del progreso sostenible es saber cuándo **retroceder estratégicamente**.
 
+![Progresión y Descarga](../../media/infografia_4.3_progresion_descarga.svg)
+
 ## 1. Modelos de Progresión (Sobrecarga)
 
 ¿Cómo hacemos más difícil el entreno?

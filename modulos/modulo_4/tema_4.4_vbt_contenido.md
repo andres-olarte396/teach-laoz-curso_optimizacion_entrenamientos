@@ -6,6 +6,8 @@ Hoy te toca hacer sentadillas al 80% de tu 1RM.
 Pero anoche dormiste mal y tu novia te dejó. Hoy tú "real" 100% es mucho más bajo que ayer. Si usas el peso calculado en Excel hace un mes, te aplastarás (o te lesionarás).
 El **VBT** soluciona esto. Tu velocidad de levantamiento TE DICE cuál es tu fuerza real HOY.
 
+![Velocity-Based Training](../../media/infografia_4.4_vbt.svg)
+
 ## 1. La Relación Carga-Velocidad
 
 Es una ley física universal: **A mayor peso, menor velocidad**.

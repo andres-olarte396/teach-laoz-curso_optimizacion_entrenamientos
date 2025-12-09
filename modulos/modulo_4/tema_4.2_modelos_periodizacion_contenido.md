@@ -6,6 +6,8 @@ La periodización no hace crecer el músculo por sí misma. Solo es el mapa para
 El objetivo es simple: **Evitar el estancamiento**.
 Si haces siempre lo mismo, tu cuerpo se adapta ("Accomodation Law") y dejas de mejorar. Necesitas cambiar el estímulo.
 
+![Modelos de Periodización](../../media/infografia_4.2_modelos_periodizacion.svg)
+
 ## 1. Periodización Lineal (Clásica / Occidental)
 
 El modelo de "vieja escuela".

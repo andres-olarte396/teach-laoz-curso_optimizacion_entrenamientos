@@ -7,6 +7,8 @@ Si juegas al fútbol/basket/rugby, el calendario te controla a ti.
 Tienes partido el domingo, el miércoles, y otro el sábado. ¿Cuándo entrenas fuerza? ¿Cuándo descansas?
 Aquí no buscamos "picos de forma" (Peaking) porque la temporada dura 9 meses. Buscamos **Micro-dosis de estímulo**.
 
+![Periodización Táctica](../../media/infografia_4.6_periodizacion_tactica.svg)
+
 ## 1. El Morfociclo Patrón (La Semana Típica)
 
 En Periodización Táctica (origen portugués, Vítor Frade), no separamos "físico" de "técnico". Todo entrena al modelo de juego.
