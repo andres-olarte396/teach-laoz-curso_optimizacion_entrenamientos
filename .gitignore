@@ -1,0 +1,51 @@
+# Archivos de entorno y configuración sensible
+.env
+.env.local
+.env.*.local
+
+# Archivos temporales
+temp_*.txt
+temp_*.html
+temp_*.md
+*.tmp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Directorios de dependencias
+node_modules/
+vendor/
+
+# Archivos de caché
+.cache/
+*.cache
+
+# Archivos de IDE
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos de build
+dist/
+build/
+*.min.js
+*.min.css
+
+# Archivos de audio temporales o sin procesar
+*.wav.tmp
+*_audio_temp.wav
+
+# Respaldos
+*.bak
+*.backup
+*_backup.*
