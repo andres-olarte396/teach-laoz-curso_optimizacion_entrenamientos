@@ -1,0 +1,191 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1050" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);">
+  <defs>
+    <linearGradient id="femurCorto" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10B981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="femurLargo" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EF4444;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#DC2626;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="brazos" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1D4ED8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cadera" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6D28D9;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  
+  <!-- Título -->
+  <text x="550" y="50" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="middle">
+    🧬 TU CUERPO ≠ LIBRO DE TEXTO
+  </text>
+  <text x="550" y="85" font-family="Arial, sans-serif" font-size="18" fill="#B0D4FF" text-anchor="middle">
+    El Entrenamiento se Adapta a TU Esqueleto, No al Revés
+  </text>
+  
+  <!-- Sección 1: FÉMUR -->
+  <rect x="50" y="120" width="1000" height="320" rx="20" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  
+  <text x="550" y="160" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#1a1a2e" text-anchor="middle">
+    🦴 EL FÉMUR: La Palanca de la Discordia
+  </text>
+  
+  <!-- Tipo A: Fémur Corto -->
+  <rect x="80" y="185" width="460" height="235" rx="15" fill="url(#femurCorto)" opacity="0.95" filter="url(#shadow)"/>
+  <text x="310" y="220" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white" text-anchor="middle">
+    ✅ TIPO A: Fémur CORTO
+  </text>
+  <text x="310" y="248" font-family="Arial, sans-serif" font-size="15" fill="white" text-anchor="middle">
+    Torso Largo (Levantador Olímpico Nato)
+  </text>
+  
+  <text x="100" y="280" font-family="Arial, sans-serif" font-size="14" fill="white">
+    🏆 Mecánica: Bajan VERTICAL
+  </text>
+  <text x="100" y="305" font-family="Arial, sans-serif" font-size="14" fill="white">
+    &nbsp;&nbsp;&nbsp;&nbsp;"Ass to Grass" sin inclinarse
+  </text>
+  <text x="100" y="335" font-family="Arial, sans-serif" font-size="14" fill="white">
+    💪 Ventaja: Sentadilla dominante
+  </text>
+  <text x="100" y="360" font-family="Arial, sans-serif" font-size="14" fill="white">
+    &nbsp;&nbsp;&nbsp;&nbsp;de cuádriceps natural
+  </text>
+  <text x="100" y="390" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#FEF3C7">
+    🎯 Recomendación:
+  </text>
+  <text x="100" y="415" font-family="Arial, sans-serif" font-size="13" fill="white">
+    Sentadilla Barra Alta o Frontal
+  </text>
+  
+  <!-- Tipo B: Fémur Largo -->
+  <rect x="560" y="185" width="460" height="235" rx="15" fill="url(#femurLargo)" opacity="0.95" filter="url(#shadow)"/>
+  <text x="790" y="220" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white" text-anchor="middle">
+    ⚠️ TIPO B: Fémur LARGO
+  </text>
+  <text x="790" y="248" font-family="Arial, sans-serif" font-size="15" fill="white" text-anchor="middle">
+    Torso Corto (La "Grúa")
+  </text>
+  
+  <text x="580" y="280" font-family="Arial, sans-serif" font-size="14" fill="white">
+    📐 Mecánica: OBLIGADOS a inclinarse
+  </text>
+  <text x="580" y="305" font-family="Arial, sans-serif" font-size="14" fill="white">
+    &nbsp;&nbsp;&nbsp;&nbsp;Parece "Buenos Días"
+  </text>
+  <text x="580" y="335" font-family="Arial, sans-serif" font-size="14" fill="white">
+    ⚠️ Problema: Física, no mala técnica
+  </text>
+  <text x="580" y="365" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#FEF3C7">
+    🛠️ Soluciones:
+  </text>
+  <text x="580" y="388" font-family="Arial, sans-serif" font-size="13" fill="white">
+    1. Acepta la inclinación (es normal)
+  </text>
+  <text x="580" y="408" font-family="Arial, sans-serif" font-size="13" fill="white">
+    2. Zapatos halterofilia (tacón)
+  </text>
+  
+  <!-- Sección 2: BRAZOS (Ape Index) -->
+  <rect x="50" y="470" width="1000" height="270" rx="20" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  
+  <text x="550" y="510" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#1a1a2e" text-anchor="middle">
+    💪 BRAZOS LARGOS vs CORTOS (Ape Index)
+  </text>
+  
+  <!-- Press Banca -->
+  <rect x="80" y="535" width="460" height="185" rx="15" fill="url(#brazos)" opacity="0.15"/>
+  <text x="310" y="565" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1D4ED8">
+    🏋️ EN EMPUJES (Press Banca)
+  </text>
+  <text x="100" y="600" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    💪 Brazos CORTOS (T-Rex):
+  </text>
+  <text x="100" y="625" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    &nbsp;&nbsp;&nbsp;ROM cortísimo → Prensadores natos
+  </text>
+  <text x="100" y="655" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    🦍 Brazos LARGOS (Gibón):
+  </text>
+  <text x="100" y="680" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    &nbsp;&nbsp;&nbsp;Barra viaja kilómetros → Hombro sufre
+  </text>
+  <text x="100" y="705" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1D4ED8">
+    🛠️ Modificación: Spoto Press, Board Press
+  </text>
+  
+  <!-- Peso Muerto -->
+  <rect x="560" y="535" width="460" height="185" rx="15" fill="url(#brazos)" opacity="0.15"/>
+  <text x="790" y="565" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1D4ED8">
+    🏋️ EN TRACCIONES (Peso Muerto)
+  </text>
+  <text x="580" y="600" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    🦍 Brazos LARGOS:
+  </text>
+  <text x="580" y="625" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    &nbsp;&nbsp;&nbsp;¡VENTAJA! Barra alta, espalda vertical
+  </text>
+  <text x="580" y="655" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    💪 Brazos CORTOS:
+  </text>
+  <text x="580" y="680" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    &nbsp;&nbsp;&nbsp;Se agachan mucho → Estrés lumbar
+  </text>
+  <text x="580" y="705" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1D4ED8">
+    🛠️ Modificación: Peso Muerto Sumo, Trap Bar
+  </text>
+  
+  <!-- Sección 3: CADERA -->
+  <rect x="50" y="770" width="1000" height="220" rx="20" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  
+  <text x="550" y="810" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#1a1a2e" text-anchor="middle">
+    🦴 ESTRUCTURA DE CADERA (Acetábulo)
+  </text>
+  
+  <!-- Acetábulo Profundo -->
+  <rect x="80" y="835" width="460" height="135" rx="15" fill="url(#cadera)" opacity="0.95" filter="url(#shadow)"/>
+  <text x="310" y="865" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">
+    🔒 ACETÁBULO PROFUNDO (Celta)
+  </text>
+  <text x="100" y="895" font-family="Arial, sans-serif" font-size="14" fill="white">
+    🛡️ Muy estable, POCA movilidad
+  </text>
+  <text x="100" y="920" font-family="Arial, sans-serif" font-size="14" fill="white">
+    ⚠️ Chocan "hueso con hueso" en squat profundo
+  </text>
+  <text x="100" y="950" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#FEF3C7">
+    🚫 NO fuerces ATG si atasca pronto
+  </text>
+  
+  <!-- Acetábulo Superficial -->
+  <rect x="560" y="835" width="460" height="135" rx="15" fill="url(#cadera)" opacity="0.95" filter="url(#shadow)"/>
+  <text x="790" y="865" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">
+    🔓 ACETÁBULO SUPERFICIAL (Polaco)
+  </text>
+  <text x="580" y="895" font-family="Arial, sans-serif" font-size="14" fill="white">
+    🤸 Mucha movilidad, menos estabilidad
+  </text>
+  <text x="580" y="920" font-family="Arial, sans-serif" font-size="14" fill="white">
+    ✅ Pueden hacer "split" de Van Damme
+  </text>
+  <text x="580" y="950" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#FEF3C7">
+    🎯 Luz verde para ATG (Ass to Grass)
+  </text>
+  
+  <!-- Resumen -->
+  <rect x="80" y="1010" width="940" height="20" rx="8" fill="#FBBF24"/>
+  <text x="550" y="1025" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#78350F" text-anchor="middle">
+    💡 Si un ejercicio se siente antinatural tras meses de práctica, probablemente NO sea tu técnica. SEA TU HUESO.
+  </text>
+  
+  <!-- Footer -->
+  <text x="550" y="1040" font-family="Arial, sans-serif" font-size="13" text-anchor="middle" fill="white" opacity="0.7">
+    Módulo 3.3 - Modificación por Antropometría | Curso de Optimización de Entrenamientos
+  </text>
+</svg>

@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1100" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+  <defs>
+    <linearGradient id="bilateral" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1D4ED8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="unilateral" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10B981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  
+  <!-- Título -->
+  <text x="550" y="55" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="middle">
+    🧮 ¿ES 1+1 = 2?
+  </text>
+  <text x="550" y="90" font-family="Arial, sans-serif" font-size="18" fill="#E9D5FF" text-anchor="middle">
+    El Fenómeno del Déficit Bilateral
+  </text>
+  
+  <!-- El Déficit Bilateral Explicado -->
+  <rect x="80" y="120" width="940" height="250" rx="20" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  
+  <text x="550" y="160" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#764ba2" text-anchor="middle">
+    🤯 EL DÉFICIT BILATERAL
+  </text>
+  <text x="550" y="190" font-family="Arial, sans-serif" font-size="16" fill="#475569" text-anchor="middle">
+    La suma de fuerza de cada pierna por separado &gt; Fuerza de ambas juntas
+  </text>
+  
+  <!-- Ecuación visual -->
+  <rect x="120" y="215" width="860" height="80" rx="15" fill="#FEF3C7"/>
+  <text x="550" y="245" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#92400E" text-anchor="middle">
+    MATEMÁTICA DEL DÉFICIT:
+  </text>
+  <text x="550" y="275" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#D97706" text-anchor="middle">
+    Pierna Izquierda (60kg) + Pierna Derecha (60kg) &gt; Bilateral (100kg)
+  </text>
+  
+  <!-- Explicación -->
+  <text x="550" y="320" font-family="Arial, sans-serif" font-size="15" fill="#333" text-anchor="middle">
+    🧠 ¿POR QUÉ? Cuando el cerebro activa DOS extremidades grandes a la vez,
+  </text>
+  <text x="550" y="345" font-family="Arial, sans-serif" font-size="15" fill="#333" text-anchor="middle">
+    la señal neural se DIVIDE y se diluye ("inhibición bilateral")
+  </text>
+  
+  <!-- Comparación lado a lado -->
+  <line x1="550" y1="390" x2="550" y2="850" stroke="white" stroke-width="4" stroke-dasharray="15,10" opacity="0.5"/>
+  
+  <!-- BILATERAL -->
+  <rect x="80" y="390" width="420" height="460" rx="20" fill="url(#bilateral)" opacity="0.95" filter="url(#shadow)"/>
+  
+  <text x="290" y="435" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="white" text-anchor="middle">
+    🏋️ BILATERAL
+  </text>
+  <text x="290" y="465" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">
+    (Dos piernas/brazos juntos)
+  </text>
+  
+  <rect x="110" y="485" width="360" height="140" rx="12" fill="white" opacity="0.95"/>
+  <text x="290" y="515" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1D4ED8" text-anchor="middle">
+    ✅ VENTAJAS
+  </text>
+  <text x="130" y="545" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Más ESTABLE = Más carga absoluta
+  </text>
+  <text x="130" y="570" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Específico para competición
+  </text>
+  <text x="130" y="595" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    &nbsp;&nbsp;(Powerlifting)
+  </text>
+  <text x="130" y="620" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Más rápido (no duplicas tiempo)
+  </text>
+  
+  <rect x="110" y="640" width="360" height="90" rx="12" fill="#FEE2E2"/>
+  <text x="290" y="670" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#991B1B" text-anchor="middle">
+    ⚠️ DESVENTAJAS
+  </text>
+  <text x="130" y="700" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Inhibición bilateral (menos kilo x kilo)
+  </text>
+  <text x="130" y="720" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Carga axial alta (columna sufre)
+  </text>
+  
+  <rect x="110" y="745" width="360" height="85" rx="12" fill="#DBEAFE"/>
+  <text x="290" y="775" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#1E3A8A" text-anchor="middle">
+    📋 EJEMPLOS
+  </text>
+  <text x="290" y="800" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Sentadilla, Press Banca,
+  </text>
+  <text x="290" y="820" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Peso Muerto, Prensa
+  </text>
+  
+  <!-- UNILATERAL -->
+  <rect x="600" y="390" width="420" height="460" rx="20" fill="url(#unilateral)" opacity="0.95" filter="url(#shadow)"/>
+  
+  <text x="810" y="435" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="white" text-anchor="middle">
+    🦵 UNILATERAL
+  </text>
+  <text x="810" y="465" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">
+    (Una pierna/brazo a la vez)
+  </text>
+  
+  <rect x="630" y="485" width="360" height="160" rx="12" fill="white" opacity="0.95"/>
+  <text x="810" y="515" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#059669" text-anchor="middle">
+    ✅ VENTAJAS
+  </text>
+  <text x="650" y="545" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • ROMPE el déficit (100% neural)
+  </text>
+  <text x="650" y="570" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Menos carga axial (columna feliz)
+  </text>
+  <text x="650" y="595" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Mayor reclutamiento CORE
+  </text>
+  <text x="650" y="620" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Corrige asimetrías
+  </text>
+  
+  <rect x="630" y="660" width="360" height="70" rx="12" fill="#FEE2E2"/>
+  <text x="810" y="690" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#991B1B" text-anchor="middle">
+    ⚠️ DESVENTAJAS
+  </text>
+  <text x="650" y="720" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Inestabilidad limita carga absoluta
+  </text>
+  
+  <rect x="630" y="745" width="360" height="85" rx="12" fill="#D1FAE5"/>
+  <text x="810" y="775" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#065F46" text-anchor="middle">
+    📋 EJEMPLOS
+  </text>
+  <text x="810" y="800" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Split Squat Búlgaro, Step-up,
+  </text>
+  <text x="810" y="820" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Zancada, Pistol Squat
+  </text>
+  
+  <!-- Progresión lógica -->
+  <rect x="80" y="880" width="940" height="155" rx="20" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  
+  <text x="550" y="920" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#764ba2" text-anchor="middle">
+    📈 PROGRESIÓN LÓGICA (Novato → Avanzado)
+  </text>
+  
+  <rect x="110" y="940" width="880" height="75" rx="12" fill="#F3F4F6"/>
+  <text x="550" y="970" font-family="Arial, sans-serif" font-size="15" fill="#333" text-anchor="middle">
+    1️⃣ Split Squat (ambos pies en suelo) → 2️⃣ Bulgarian Split Squat (pie elevado)
+  </text>
+  <text x="550" y="995" font-family="Arial, sans-serif" font-size="15" fill="#333" text-anchor="middle">
+    → 3️⃣ Zancada Inversa (dinámico) → 4️⃣ Walking Lunge (dinámico inestable)
+  </text>
+  
+  <!-- Footer -->
+  <rect x="80" y="1050" width="940" height="25" rx="10" fill="#FBBF24"/>
+  <text x="550" y="1069" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#78350F" text-anchor="middle">
+    💡 Atleta completo = Domina BILATERAL (fuerza bruta) + UNILATERAL (eficiencia, salud columna)
+  </text>
+  
+  <!-- Footer -->
+  <text x="550" y="1095" font-family="Arial, sans-serif" font-size="13" text-anchor="middle" fill="white" opacity="0.8">
+    Módulo 3.5 - Unilaterales, Bilaterales y el Déficit Bilateral | Curso de Optimización de Entrenamientos
+  </text>
+</svg>

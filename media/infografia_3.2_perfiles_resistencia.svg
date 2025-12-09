@@ -1,0 +1,256 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1100" style="background: linear-gradient(135deg, #1E3A8A 0%, #312E81 100%);">
+  <defs>
+    <linearGradient id="ascending" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#34D399;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#10B981;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="descending" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F59E0B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D97706;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="bell" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6D28D9;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-opacity="0.5"/>
+    </filter>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Título -->
+  <text x="550" y="50" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="white" text-anchor="middle">
+    💑 EL MATRIMONIO PERFECTO
+  </text>
+  <text x="550" y="85" font-family="Arial, sans-serif" font-size="18" fill="#BFDBFE" text-anchor="middle">
+    Curva de Fuerza (TU músculo) + Perfil de Resistencia (LA carga)
+  </text>
+  
+  <!-- Sección 1: Curvas de Fuerza -->
+  <rect x="50" y="120" width="1000" height="450" rx="20" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  
+  <text x="550" y="160" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#1E3A8A" text-anchor="middle">
+    🧬 CURVAS DE FUERZA (Tu Capacidad Interna)
+  </text>
+  <text x="550" y="190" font-family="Arial, sans-serif" font-size="15" fill="#475569" text-anchor="middle">
+    Tu músculo NO tiene la misma fuerza en todo el rango
+  </text>
+  
+  <!-- Curva Ascendente -->
+  <rect x="80" y="210" width="300" height="340" rx="15" fill="url(#ascending)" opacity="0.2"/>
+  <path d="M 120 480 Q 180 400, 340 280" stroke="url(#ascending)" stroke-width="6" fill="none" filter="url(#glow)"/>
+  <circle cx="120" cy="480" r="8" fill="#10B981"/>
+  <circle cx="340" cy="280" r="8" fill="#10B981"/>
+  
+  <text x="230" y="240" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#059669" text-anchor="middle">
+    📈 ASCENDENTE (PUSH)
+  </text>
+  <text x="230" y="270" font-family="Arial, sans-serif" font-size="14" fill="#064E3B" text-anchor="middle">
+    Más fuerte al FINAL
+  </text>
+  <text x="100" y="310" font-family="Arial, sans-serif" font-size="13" fill="#333">
+    🔹 Inicio (abajo): Débil
+  </text>
+  <text x="100" y="335" font-family="Arial, sans-serif" font-size="13" fill="#333">
+    🔹 Final (bloqueo): FUERTE
+  </text>
+  <text x="100" y="370" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">
+    📋 Ejemplos:
+  </text>
+  <text x="100" y="395" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Sentadilla
+  </text>
+  <text x="100" y="415" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Press Banca
+  </text>
+  <text x="100" y="435" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Prensa de Piernas
+  </text>
+  <text x="100" y="470" font-family="Arial, sans-serif" font-size="11" fill="#059669">
+    Inicio difícil ↗ Final fácil
+  </text>
+  <text x="320" y="300" font-family="Arial, sans-serif" font-size="12" fill="#059669">Fuerte</text>
+  <text x="110" y="500" font-family="Arial, sans-serif" font-size="12" fill="#059669">Débil</text>
+  
+  <!-- Curva Descendente -->
+  <rect x="400" y="210" width="300" height="340" rx="15" fill="url(#descending)" opacity="0.2"/>
+  <path d="M 440 280 Q 500 400, 660 480" stroke="url(#descending)" stroke-width="6" fill="none" filter="url(#glow)"/>
+  <circle cx="440" cy="280" r="8" fill="#F59E0B"/>
+  <circle cx="660" cy="480" r="8" fill="#F59E0B"/>
+  
+  <text x="550" y="240" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#D97706" text-anchor="middle">
+    📉 DESCENDENTE (PULL)
+  </text>
+  <text x="550" y="270" font-family="Arial, sans-serif" font-size="14" fill="#78350F" text-anchor="middle">
+    Más fuerte al INICIO
+  </text>
+  <text x="420" y="310" font-family="Arial, sans-serif" font-size="13" fill="#333">
+    🔹 Inicio (estirado): FUERTE
+  </text>
+  <text x="420" y="335" font-family="Arial, sans-serif" font-size="13" fill="#333">
+    🔹 Final (contraído): Débil
+  </text>
+  <text x="420" y="370" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#D97706">
+    📋 Ejemplos:
+  </text>
+  <text x="420" y="395" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Dominadas
+  </text>
+  <text x="420" y="415" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Remos
+  </text>
+  <text x="420" y="435" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Face Pulls
+  </text>
+  <text x="420" y="470" font-family="Arial, sans-serif" font-size="11" fill="#D97706">
+    Inicio fácil ↘ Final difícil
+  </text>
+  <text x="430" y="300" font-family="Arial, sans-serif" font-size="12" fill="#D97706">Fuerte</text>
+  <text x="640" y="500" font-family="Arial, sans-serif" font-size="12" fill="#D97706">Débil</text>
+  
+  <!-- Curva Campana -->
+  <rect x="720" y="210" width="300" height="340" rx="15" fill="url(#bell)" opacity="0.2"/>
+  <path d="M 760 450 Q 870 280, 980 450" stroke="url(#bell)" stroke-width="6" fill="none" filter="url(#glow)"/>
+  <circle cx="760" cy="450" r="8" fill="#8B5CF6"/>
+  <circle cx="870" cy="280" r="8" fill="#8B5CF6"/>
+  <circle cx="980" cy="450" r="8" fill="#8B5CF6"/>
+  
+  <text x="870" y="240" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#6D28D9" text-anchor="middle">
+    🔔 CAMPANA
+  </text>
+  <text x="870" y="270" font-family="Arial, sans-serif" font-size="14" fill="#4C1D95" text-anchor="middle">
+    Más fuerte al MEDIO
+  </text>
+  <text x="740" y="310" font-family="Arial, sans-serif" font-size="13" fill="#333">
+    🔹 Inicio: Débil
+  </text>
+  <text x="740" y="335" font-family="Arial, sans-serif" font-size="13" fill="#333">
+    🔹 Medio: FUERTE
+  </text>
+  <text x="740" y="360" font-family="Arial, sans-serif" font-size="13" fill="#333">
+    🔹 Final: Débil
+  </text>
+  <text x="740" y="395" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#6D28D9">
+    📋 Ejemplos:
+  </text>
+  <text x="740" y="420" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Curl de Bíceps
+  </text>
+  <text x="740" y="440" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    • Elevaciones Laterales
+  </text>
+  <text x="740" y="485" font-family="Arial, sans-serif" font-size="11" fill="#6D28D9">
+    Débil → Fuerte → Débil
+  </text>
+  <text x="850" y="300" font-family="Arial, sans-serif" font-size="12" fill="#6D28D9">Fuerte</text>
+  <text x="750" y="470" font-family="Arial, sans-serif" font-size="12" fill="#6D28D9">Débil</text>
+  <text x="960" y="470" font-family="Arial, sans-serif" font-size="12" fill="#6D28D9">Débil</text>
+  
+  <!-- Sección 2: Perfiles de Resistencia -->
+  <rect x="50" y="600" width="1000" height="440" rx="20" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  
+  <text x="550" y="640" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#1E3A8A" text-anchor="middle">
+    ⚙️ PERFILES DE RESISTENCIA (La Carga Externa)
+  </text>
+  <text x="550" y="670" font-family="Arial, sans-serif" font-size="15" fill="#475569" text-anchor="middle">
+    Cómo cambia la dificultad por gravedad y palancas
+  </text>
+  
+  <!-- Peso Libre -->
+  <rect x="80" y="690" width="300" height="180" rx="12" fill="#FEF3C7"/>
+  <text x="230" y="720" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#92400E" text-anchor="middle">
+    🏋️ PESO LIBRE (Gravedad)
+  </text>
+  <text x="100" y="750" font-family="Arial, sans-serif" font-size="13" fill="#333">
+    📍 Máximo cuando extremidad
+  </text>
+  <text x="100" y="770" font-family="Arial, sans-serif" font-size="13" fill="#333">
+    &nbsp;&nbsp;&nbsp;&nbsp;está HORIZONTAL
+  </text>
+  <text x="100" y="800" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    🔹 Ejemplo: Flyes/Cristos
+  </text>
+  <text x="100" y="820" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    &nbsp;&nbsp;&nbsp;Brutal abajo (estirado)
+  </text>
+  <text x="100" y="840" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    &nbsp;&nbsp;&nbsp;CERO arriba (brazos juntos)
+  </text>
+  <text x="100" y="860" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#D97706">
+    ⚠️ Solo trabaja 30° del rango
+  </text>
+  
+  <!-- Cables/Poleas -->
+  <rect x="400" y="690" width="300" height="180" rx="12" fill="#DBEAFE"/>
+  <text x="550" y="720" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1E3A8A" text-anchor="middle">
+    🔗 CABLES/POLEAS
+  </text>
+  <text x="420" y="750" font-family="Arial, sans-serif" font-size="13" fill="#333">
+    📍 Resistencia constante desde
+  </text>
+  <text x="420" y="770" font-family="Arial, sans-serif" font-size="13" fill="#333">
+    &nbsp;&nbsp;&nbsp;&nbsp;dirección del cable
+  </text>
+  <text x="420" y="800" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    ✅ Ventaja: Redirige la carga
+  </text>
+  <text x="420" y="820" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    &nbsp;&nbsp;&nbsp;para mantener tensión
+  </text>
+  <text x="420" y="840" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    &nbsp;&nbsp;&nbsp;en TODO el rango
+  </text>
+  <text x="420" y="860" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1D4ED8">
+    🎯 Ideal para aislar pico contracción
+  </text>
+  
+  <!-- Bandas Elásticas -->
+  <rect x="720" y="690" width="300" height="180" rx="12" fill="#FCE7F3"/>
+  <text x="870" y="720" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#BE185D" text-anchor="middle">
+    🎗️ BANDAS ELÁSTICAS
+  </text>
+  <text x="740" y="750" font-family="Arial, sans-serif" font-size="13" fill="#333">
+    📍 Resistencia PROGRESIVA
+  </text>
+  <text x="740" y="780" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    🔹 Inicio: Fácil (poca tensión)
+  </text>
+  <text x="740" y="800" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    🔹 Final: Difícil (banda estirada)
+  </text>
+  <text x="740" y="830" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    ✅ Añadir a barra (Sentadilla)
+  </text>
+  <text x="740" y="850" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    &nbsp;&nbsp;&nbsp;= Resistencia variable
+  </text>
+  <text x="740" y="870" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#BE185D">
+    🎯 Carga crece con tu fuerza
+  </text>
+  
+  <!-- Caso práctico -->
+  <rect x="80" y="895" width="940" height="125" rx="12" fill="#1F2937"/>
+  <text x="550" y="925" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FBBF24" text-anchor="middle">
+    💡 APLICACIÓN PRÁCTICA: Cómo Arreglar el Mismatch
+  </text>
+  <text x="100" y="955" font-family="Arial, sans-serif" font-size="14" fill="white">
+    🔹 Estímulo en ESTIRADO (hipertrofia por longitud) → Peso Libre (Mancuernas/Barras)
+  </text>
+  <text x="100" y="980" font-family="Arial, sans-serif" font-size="14" fill="white">
+    🔹 Estímulo en CONTRAÍDO (pico de contracción) → Cables o Máquinas específicas
+  </text>
+  <text x="100" y="1005" font-family="Arial, sans-serif" font-size="14" fill="white">
+    ✅ Programa completo = Combinar AMBOS perfiles para cubrir TODO el rango muscular
+  </text>
+  
+  <!-- Footer -->
+  <text x="550" y="1080" font-family="Arial, sans-serif" font-size="13" text-anchor="middle" fill="white" opacity="0.7">
+    Módulo 3.2 - Perfiles de Resistencia vs Curvas de Fuerza | Curso de Optimización de Entrenamientos
+  </text>
+</svg>
