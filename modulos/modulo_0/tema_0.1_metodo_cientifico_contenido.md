@@ -10,6 +10,8 @@ Imagina que entrenar es explorar un territorio desconocido.
 
 En el fitness, diferenciar la señal del ruido es vital. Este tema te enseña a calibrar tu brújula.
 
+> Recurso visual recomendado: [Infografía "Tu Brújula Científica"](infografia_brujula_cientifica.md)
+
 ## 1. La Jerarquía de la Evidencia (Tu Filtro de Calidad)
 
 Imagina una pirámide. Lo que está abajo es abundante pero de baja calidad; lo de arriba es escaso pero puro oro.

@@ -11,6 +11,7 @@
  
  - [Informe de Síntesis: Fundamentos del Entrenamiento Basado en Evidencia](modulos/modulo_0/informe_sintesis_entrenamiento_evidencia.md)
  - [Artículo: Tu Brújula Fitness](modulos/modulo_0/articulo_brujula_fitness.md)
+   - [Infografía: Tu Brújula Científica](modulos/modulo_0/infografia_brujula_cientifica.md)
 
 ## Módulo 1: Biomecánica Aplicada
 

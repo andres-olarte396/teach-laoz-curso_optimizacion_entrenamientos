@@ -5,10 +5,12 @@ Generado por Teach-Laoz AI
 # MÓDULO 0
 
 TEMA: tema_0.1_metodo_cientifico
- 
- Recursos complementarios del módulo:
- - Informe de Síntesis: Fundamentos del Entrenamiento Basado en Evidencia → [Abrir](modulos/modulo_0/informe_sintesis_entrenamiento_evidencia.md)
- - Artículo: Tu Brújula Fitness → [Abrir](modulos/modulo_0/articulo_brujula_fitness.md)
+
+Recursos complementarios del módulo:
+
+- Informe de Síntesis: Fundamentos del Entrenamiento Basado en Evidencia → [Abrir](modulos/modulo_0/informe_sintesis_entrenamiento_evidencia.md)
+- Artículo: Tu Brújula Fitness → [Abrir](modulos/modulo_0/articulo_brujula_fitness.md)
+ - Infografía: Tu Brújula Científica → [Abrir](modulos/modulo_0/infografia_brujula_cientifica.md)
 
 # Tema 0.1: Método Científico y Lectura Crítica de Literatura
 
@@ -168,11 +170,12 @@ Aquí es donde separamos lo "real" de lo "útil".
 - Si un quemador de grasa te hace perder 50 gramos en un año, y el estudio es sólido, es un resultado "Significativo" (es real).
 - Pero, ¿te importa perder 50 gramos en un año? No. Aquí entra el **Tamaño del Efecto**.
 
-  | Valor (Cohen's d) | Traducción | ¿Me importa? |
+  | Valor (Cohen's d) | Traducción | ¿Me importa?                                     |
   | :---------------- | :--------- | :----------------------------------------------- |
-  | **0.2** | Pequeño | Probablemente no, a menos que seas olímpico. |
-  | **0.5** | Moderado | Interesante, vale la pena probar. |
-  | **0.8+** | Grande | **¡Hazlo!** Esto cambia resultados visiblemente. |
+  | **0.2**           | Pequeño    | Probablemente no, a menos que seas olímpico.     |
+  | **0.5**           | Moderado   | Interesante, vale la pena probar.                |
+  | **0.8+**          | Grande     | **¡Hazlo!** Esto cambia resultados visiblemente. |
+
   **Analogía**: El P-value te dice si el coche arranca. El Effect Size te dice si es un Ferrari o un Twingo.
 
 ## 3. Correlación vs. Causalidad: El Clásico Error
@@ -599,12 +602,13 @@ Realizar e interpretar una evaluación funcional básica (OHSA) para tomar decis
 Busca a un compañero (o grábate a ti mismo). Realiza 5 repeticiones de Overhead Squat (Sentadilla de Arranque).
 Usa la siguiente lista de chequeo y marca SÍ o NO:
 
-| Vista | Falla Biomecánica | ¿Ocurre? (S/N) | Músculo Sospechoso (Hiperactivo) |
+| Vista   | Falla Biomecánica                   | ¿Ocurre? (S/N) | Músculo Sospechoso (Hiperactivo) |
 | :------ | :---------------------------------- | :------------- | :------------------------------- |
-| Frente | ¿Los pies giran hacia afuera? | [ ] | Soleus / Bíceps Femoral |
-| Frente | ¿Las rodillas van hacia adentro? | [ ] | Aductores |
-| Lateral | ¿Caen los brazos delante? | [ ] | Dorsal Ancho / Pectoral |
-| Lateral | ¿Se arquea excesivamente la lumbar? | [ ] | Flexores de Cadera (Psoas) |
+| Frente  | ¿Los pies giran hacia afuera?       | [ ]            | Soleus / Bíceps Femoral          |
+| Frente  | ¿Las rodillas van hacia adentro?    | [ ]            | Aductores                        |
+| Lateral | ¿Caen los brazos delante?           | [ ]            | Dorsal Ancho / Pectoral          |
+| Lateral | ¿Se arquea excesivamente la lumbar? | [ ]            | Flexores de Cadera (Psoas)       |
+
 **Interpretación**: Si marcaste SÍ en "Pies giran hacia afuera", tu primer paso en el calentamiento debe ser liberar/estirar las pantorrillas y el bíceps femoral.
 
 ## Ejercicio 2: El Reto de Asimetría (Y-Balance Casero)
@@ -673,14 +677,15 @@ Esto es la **Dominancia Sinérgica**. Y es la causa #1 de dolor no traumático e
 
 Mike Boyle y Gray Cook nos dieron este mapa del tesoro. El cuerpo alterna articulaciones que necesitan **MOVILIDAD** y las que necesitan **ESTABILIDAD**.
 
-| Articulación | Necesidad Primaria | Qué pasa si falla |
+| Articulación | Necesidad Primaria                 | Qué pasa si falla                            |
 | :----------- | :--------------------------------- | :------------------------------------------- |
-| **Tobillo** | **Movilidad** (Dorsiflexión) | La rodilla se vuelve inestable (Valgo). |
-| **Rodilla** | **Estabilidad** | Dolor de rodilla (tendinitis). |
-| **Cadera** | **Movilidad** (Multiplanar) | La lumbar pierde estabilidad y se mueve. |
-| **Lumbar** | **Estabilidad** (Core) | Hernias / Dolor bajo espalda. |
+| **Tobillo**  | **Movilidad** (Dorsiflexión)       | La rodilla se vuelve inestable (Valgo).      |
+| **Rodilla**  | **Estabilidad**                    | Dolor de rodilla (tendinitis).               |
+| **Cadera**   | **Movilidad** (Multiplanar)        | La lumbar pierde estabilidad y se mueve.     |
+| **Lumbar**   | **Estabilidad** (Core)             | Hernias / Dolor bajo espalda.                |
 | **Torácica** | **Movilidad** (Extensión/Rotación) | El hombro pierde estabilidad / Dolor cuello. |
-| **Hombro** | **Estabilidad** (Escápula) | Pinzamiento (Impingement). |
+| **Hombro**   | **Estabilidad** (Escápula)         | Pinzamiento (Impingement).                   |
+
 **Regla de Oro**: Si una articulación móvil se vuelve rígida (ej. tobillo rígido), la articulación estable de arriba o abajo se verá obligada a moverse para compensar (ej. rodilla inestable).
 
 ## 2. Compensaciones Clásicas (El "Top Hits" de los Errores)
@@ -1089,11 +1094,11 @@ La moneda de cambio del cuerpo es el **ATP** (Adenosín Trifosfato). Sin ATP, te
 
 No descanses por instinto, descansa por fisiología.
 
-| Objetivo | Sistema Dominante | Ratio Trabajo:Descanso | Ejemplo |
+| Objetivo                 | Sistema Dominante   | Ratio Trabajo:Descanso | Ejemplo                          |
 | :----------------------- | :------------------ | :--------------------- | :------------------------------- |
-| **Fuerza / Potencia** | Nitro (ATP-PCr) | **1:12 a 1:20** | Esfuerzo 5s -> Descanso 3-5 min. |
-| **Hipertrofia** | Turbo (Glucolítico) | **1:3 a 1:5** | Serie 40s -> Descanso 2-3 min. |
-| **Resistencia Muscular** | Diesel/Mixto | **1:1 a 1:2** | Serie 60s -> Descanso 60s. |
+| **Fuerza / Potencia**    | Nitro (ATP-PCr)     | **1:12 a 1:20**        | Esfuerzo 5s -> Descanso 3-5 min. |
+| **Hipertrofia**          | Turbo (Glucolítico) | **1:3 a 1:5**          | Serie 40s -> Descanso 2-3 min.   |
+| **Resistencia Muscular** | Diesel/Mixto        | **1:1 a 1:2**          | Serie 60s -> Descanso 60s.       |
 
 ## 3. El Mito del "Switch"
 
@@ -1330,12 +1335,12 @@ El arte del entrenador es acertar con el momento del siguiente estímulo.
 
 No todo se recupera a la vez. Esto es vital para la frecuencia de entrenamiento.
 
-| Sistema | Tiempo Promedio de Recuperación |
+| Sistema                                  | Tiempo Promedio de Recuperación                              |
 | :--------------------------------------- | :----------------------------------------------------------- |
-| **Sistemas Energéticos (ATP/Glucógeno)** | 24 - 48 horas (con comida adecuada). |
-| **Músculo (Daño estructural)** | 48 - 72 horas (depende del volumen y grupo muscular). |
-| **Sistema Nervioso (SNC)** | 48 - 96+ horas (después de fuerza máxima o fallos brutales). |
-| **Tendones y Articulaciones** | Semanas / Meses (tienen poco riego sanguíneo). |
+| **Sistemas Energéticos (ATP/Glucógeno)** | 24 - 48 horas (con comida adecuada).                         |
+| **Músculo (Daño estructural)**           | 48 - 72 horas (depende del volumen y grupo muscular).        |
+| **Sistema Nervioso (SNC)**               | 48 - 96+ horas (después de fuerza máxima o fallos brutales). |
+| **Tendones y Articulaciones**            | Semanas / Meses (tienen poco riego sanguíneo).               |
 
 - _Implicación_: Puedes sentir los músculos frescos a las 24h, pero tu Sistema Nervioso sigue "frito". Si intentas otro récord personal, te lesionarás o fallarás.
 

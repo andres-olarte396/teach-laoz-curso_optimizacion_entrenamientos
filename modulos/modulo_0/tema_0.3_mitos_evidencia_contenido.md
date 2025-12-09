@@ -6,6 +6,8 @@ La industria del fitness está llena de "zombis": ideas que la ciencia mató y e
 
 ![Cazando Zombis del Fitness](../../media/infografia_0.3_cazador_mitos.svg)
 
+> Observa también: [Infografía "Tu Brújula Científica"](infografia_brujula_cientifica.md) — panel de mitos con síntesis visual.
+
 ## Mito 1: "La Ventana Anabólica de 30 minutos"
 >
 > *"¡Rápido! ¡Tómate el batido o perderás todo el entreno!"*

@@ -7,6 +7,8 @@ No necesitas ser matemático para ser un gran entrenador, pero necesitas estadí
 
 ![Detector de Mentiras Estadístico](../../media/infografia_0.2_estadistica_detector.svg)
 
+> Apoyo visual: [Infografía "Tu Brújula Científica"](infografia_brujula_cientifica.md) — resume P-value vs Tamaño del Efecto.
+
 ## 1. P-value: ¿Fue Suerte o Fue Real?
 
 Imagina que lanzas una moneda 10 veces y salen 10 caras. ¿La moneda está trucada o tuviste una suerte increíble? El **P-value** calcula esa probabilidad de "suerte".
