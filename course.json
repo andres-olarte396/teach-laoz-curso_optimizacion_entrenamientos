@@ -1,0 +1,21 @@
+{
+  "id": "teach-laoz-curso_optimizacion_entrenamientos",
+  "title": "Curso Optimización Entrenamientos (Edición 2025)",
+  "description": "Curso completo sobre estrategias y técnicas basadas en evidencia científica actual para optimizar el rendimiento y resultados en entrenamientos físicos. Incluye VBT, BFR, autorregulación, tecnología wearable y análisis de datos.",
+  "level": "Intermedio-Avanzado",
+  "duration_hours": 180,
+  "duration_months": 9,
+  "author": "L4OZ Learning",
+  "total_modules": 10,
+  "version": "2.0.0",
+  "updated": "2024-12-08",
+  "new_features": [
+    "Velocity-Based Training (VBT)",
+    "Blood Flow Restriction (BFR)",
+    "Tecnología y Data Analytics",
+    "HRV Monitoring",
+    "Métodos Avanzados (PAP, Cluster Sets)",
+    "Recuperación y Readaptación",
+    "Periodización Táctica"
+  ]
+}
