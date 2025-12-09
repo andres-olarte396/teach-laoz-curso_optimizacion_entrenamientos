@@ -438,6 +438,76 @@ Al finalizar este programa, el entrenador será capaz de:
 
 ---
 
+## 📆 Cronograma Diario (Formato para WhatsApp)
+
+### Semana 1 — Módulo 0: Preconceptos y Fundamentos
+
+- **Día 1 (Lun):** Método Científico
+  - Lectura: `Tema 0.1: Método Científico`
+  - Acción: Identifica 3 sesgos comunes en fitness.
+  - Enlaces: Contenido | Ejercicios | Evaluación.
+
+- **Día 2 (Mar):** Método Científico aplicado
+  - Video: `Brújula Científica Fitness.mp4` (resumen aplicado)
+  - Acción: Elige un mito y formula hipótesis.
+  - Enlaces: Infografía | Artículo.
+
+- **Día 3 (Mié):** Estadística Básica
+  - Lectura: `Tema 0.2: Estadística Básica`
+  - Acción: Define p-value, tamaño de efecto, intervalo de confianza.
+  - Enlaces: Contenido | Ejercicios | Evaluación.
+
+- **Día 4 (Jue):** Estadística aplicada
+  - Tarea: Analiza una tabla de resultados simple.
+  - Acción: ¿Hay diferencia práctica? Justifica.
+  - Enlace: Ejercicios 0.2.
+
+- **Día 5 (Vie):** Mitos vs Evidencia
+  - Lectura: `Tema 0.3: Mitos vs Evidencia`
+  - Acción: Contrasta 2 mitos con 2 papers.
+  - Enlaces: Contenido | Ejercicios | Evaluación.
+
+- **Día 6 (Sáb):** Síntesis + Referencias
+  - Lectura: `Informe de Síntesis` + `Referencias IA y Mercado Laboral`.
+  - Acción: Escribe 5 aprendizajes clave.
+  - Recurso: Audio `SNIP.m4a`.
+
+- **Día 7 (Dom):** Cierre + Mini Quiz
+  - Acción: Realiza la evaluación (0.1–0.3).
+  - Entrega: Tu “Brújula Científica” personal (1 página).
+  - Enlaces: Evaluación | Multimedia.
+
+---
+
+## ⏱️ Duración sugerida por módulo (según contenidos)
+
+- **Módulo 0** (3 temas + recursos): 1 semana
+- **Módulo 1** (5 temas + guiones): 2 semanas
+- **Módulo 2** (5 temas + guiones): 2 semanas
+- **Módulo 3** (6 temas): 2 semanas
+- **Módulo 4** (6 temas): 2 semanas
+- **Módulo 5** (6 temas): 2 semanas
+- **Módulo 6** (5 temas): 1–2 semanas
+- **Módulo 7** (6 temas, nuevos métodos): 2 semanas
+- **Módulo 8** (6 temas + tecnología): 2 semanas
+- **Módulo 9** (6 temas + recuperación): 2 semanas
+
+Total estimado: 17–19 semanas (4–5 meses). Puede ampliarse a 9 meses con más práctica, proyectos y clínicas.
+
+---
+
+## 📨 Plantilla de mensaje diario para WhatsApp
+
+Formato breve y accionable:
+
+"Hoy: [Tema/Actividad]. Objetivo: [1 frase]. Acción: [tarea concreta]. Enlaces: [contenido] | [ejercicios] | [evaluación] | [multimedia]."
+
+Ejemplo (Día 1, Módulo 0):
+
+"Hoy: Método Científico. Objetivo: pensar como entrenador-científico. Acción: lista 3 sesgos comunes y cómo evitarlos. Enlaces: Contenido | Ejercicios | Evaluación | Infografía."
+
+---
+
 ## 🏆 Certificación y Evaluación
 
 ### Criterios de Aprobación
