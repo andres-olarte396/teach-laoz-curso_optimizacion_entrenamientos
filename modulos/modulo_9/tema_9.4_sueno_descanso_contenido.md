@@ -6,6 +6,8 @@ Puedes tener la mejor rutina y la mejor dieta, pero si duermes 5 horas, tu testo
 El sueño no es un "periodo de inactividad". Es cuando el cuerpo repara, limpia y crece.
 Sin sueño = Sin ganancias.
 
+![Sueño y Descanso](../../media/infografia_9.4_sueno_descanso.svg)
+
 ## 1. Arquitectura del Sueño (Fases)
 
 Un ciclo dura 90 minutos. Necesitas 5 ciclos (7.5 horas) para estar óptimo.

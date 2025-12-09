@@ -6,6 +6,8 @@ El error clásico del entrenador es ver al atleta como un par de piernas que cor
 El atleta es un sistema complejo donde interactúan: Entreno + Nutrición + Psicología + Inmunología.
 El **Estrés Sistémico** es la suma de TODO.
 
+![Estrés Sistémico](../../media/infografia_9.6_estres_sistemico.svg)
+
 ## 1. El Concepto de "Readiness" (Disponibilidad)
 
 Es la respuesta a la pregunta: **"¿Cuánta gasolina tienes hoy en el tanque para gastar en el gym?"**.

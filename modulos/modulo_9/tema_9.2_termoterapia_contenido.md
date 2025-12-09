@@ -6,6 +6,8 @@
 La respuesta incorrecta puede frenar tus ganancias musculares.
 Vamos a ver cómo la temperatura afecta a la fisiología.
 
+![Termoterapia](../../media/infografia_9.2_termoterapia.svg)
+
 ## 1. Crioterapia (Frío / Inmersión en Agua Helada)
 
 Meterse en una bañera con hielos (10-15ºC) durante 10-15 min.

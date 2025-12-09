@@ -5,6 +5,8 @@
 ¿Pagar 300€ por una pistola de masaje o unas botas de aire vale la pena?
 Vivimos el boom de la "Percussive Therapy". Separemos el marketing de la fisiología.
 
+![Terapias Mecánicas](../../media/infografia_9.3_terapias_mecanicas.svg)
+
 ## 1. Terapia de Percusión (Theragun, Hypervolt)
 
 Una pistola que golpea el músculo a 2400 RPM.

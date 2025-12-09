@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1150 900">
+  <defs>
+    <linearGradient id="g9_3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+    <filter id="ds9_3" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#00000055"/>
+    </filter>
+  </defs>
+  <rect width="1150" height="900" fill="url(#g9_3)"/>
+  <g filter="url(#ds9_3)">
+    <rect x="60" y="60" width="1030" height="180" rx="16" fill="#ffffff"/>
+    <text x="90" y="130" font-size="44" font-family="Segoe UI" fill="#111827">Terapias Mecánicas</text>
+    <text x="90" y="170" font-size="24" font-family="Segoe UI" fill="#374151">Percusión, Compresión neumática, Electroestimulación</text>
+  </g>
+  <g filter="url(#ds9_3)">
+    <rect x="60" y="270" width="520" height="240" rx="16" fill="#ffffff"/>
+    <text x="90" y="320" font-size="28" fill="#111827">Percusión</text>
+    <text x="90" y="360" font-size="20" fill="#374151">Vibración, flujo local, ROM pre-entreno</text>
+    <text x="90" y="400" font-size="20" fill="#374151">30s músculo objetivo</text>
+  </g>
+  <g filter="url(#ds9_3)">
+    <rect x="590" y="270" width="500" height="240" rx="16" fill="#ffffff"/>
+    <text x="620" y="320" font-size="28" fill="#111827">Compresión</text>
+    <text x="620" y="360" font-size="20" fill="#374151">Secuencial: drena venoso/linfa</text>
+    <text x="620" y="400" font-size="20" fill="#374151">Reduce fatiga subjetiva</text>
+  </g>
+  <g filter="url(#ds9_3)">
+    <rect x="60" y="530" width="1030" height="300" rx="16" fill="#ffffff"/>
+    <text x="90" y="580" font-size="28" fill="#111827">Electroestimulación</text>
+    <text x="90" y="620" font-size="20" fill="#374151">TENS: analgesia; EMS: capilarización/recuperación</text>
+    <text x="90" y="660" font-size="20" fill="#374151">Recuperación activa tumbado</text>
+  </g>
+</svg>

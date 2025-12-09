@@ -6,6 +6,8 @@ El cuerpo se cura a su ritmo. No existe una "píldora mágica" que repare un des
 Sin embargo, podemos facilitar el entorno para que el cuerpo haga su trabajo.
 El objetivo de la recuperación post-entreno NO es "eliminar el ácido láctico" (eso se va solo en 30 min), es **apagar el Sistema Nervioso Simpático** (Estrés) y encender el Parasimpático (Relax).
 
+![Recuperación Post-Entreno](../../media/infografia_9.1_recuperacion_postentreno.svg)
+
 ## 1. Foam Rolling (Liberación Miofascial)
 
 * **¿Rompe adherencias?**: No. La fascia es más dura que el acero. Un rodillo de espuma no la deforma físicamente.

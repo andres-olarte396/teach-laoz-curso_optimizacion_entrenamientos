@@ -7,6 +7,8 @@ Falta el "alta deportiva".
 El RTT es el proceso de construir un puente sólido para cruzar ese abismo.
 Si saltas el puente, te caes (recaída).
 
+![RTT Readaptación](../../media/infografia_9.5_rtt_readaptacion.svg)
+
 ## 1. El Modelo de Control del Caos
 
 La readaptación debe progresar de lo predecible a lo impredecible ("Caos").

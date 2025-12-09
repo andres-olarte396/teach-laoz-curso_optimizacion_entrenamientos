@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1150 900">
+  <defs>
+    <linearGradient id="g9_6" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ef4444"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+    <filter id="ds9_6" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#00000055"/>
+    </filter>
+  </defs>
+  <rect width="1150" height="900" fill="url(#g9_6)"/>
+  <g filter="url(#ds9_6)">
+    <rect x="60" y="60" width="1030" height="180" rx="16" fill="#ffffff"/>
+    <text x="90" y="130" font-size="44" font-family="Segoe UI" fill="#111827">Estrés Sistémico y Readiness</text>
+    <text x="90" y="170" font-size="24" font-family="Segoe UI" fill="#374151">Monitorea y ajusta carga según estado del atleta</text>
+  </g>
+  <g filter="url(#ds9_6)">
+    <rect x="60" y="270" width="520" height="240" rx="16" fill="#ffffff"/>
+    <text x="90" y="320" font-size="28" fill="#111827">Monitorización</text>
+    <text x="90" y="360" font-size="20" fill="#374151">HRV + cuestionario bienestar (fatiga, sueño, dolor, estrés)</text>
+  </g>
+  <g filter="url(#ds9_6)">
+    <rect x="590" y="270" width="500" height="240" rx="16" fill="#ffffff"/>
+    <text x="620" y="320" font-size="28" fill="#111827">Autorregulación</text>
+    <text x="620" y="360" font-size="20" fill="#374151">Días verdes/amarillos/rojos: ajustar volumen/intensidad</text>
+  </g>
+  <g filter="url(#ds9_6)">
+    <rect x="60" y="530" width="1030" height="300" rx="16" fill="#ffffff"/>
+    <text x="90" y="580" font-size="28" fill="#111827">Gestión de Vida</text>
+    <text x="90" y="620" font-size="20" fill="#374151">Carga cognitiva, ayuno de dopamina</text>
+  </g>
+</svg>
