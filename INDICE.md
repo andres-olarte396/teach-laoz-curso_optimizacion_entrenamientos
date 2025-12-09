@@ -8,6 +8,9 @@
    - [Ejercicios](modulos/modulo_0/tema_0.2_estadistica_basica_ejercicios.md) | [Evaluación](modulos/modulo_0/tema_0.2_estadistica_basica_evaluacion.md)
 3. [Tema 0.3: Mitos vs Evidencia](modulos/modulo_0/tema_0.3_mitos_evidencia_contenido.md)
    - [Ejercicios](modulos/modulo_0/tema_0.3_mitos_evidencia_ejercicios.md) | [Evaluación](modulos/modulo_0/tema_0.3_mitos_evidencia_evaluacion.md)
+ 
+ - [Informe de Síntesis: Fundamentos del Entrenamiento Basado en Evidencia](modulos/modulo_0/informe_sintesis_entrenamiento_evidencia.md)
+ - [Artículo: Tu Brújula Fitness](modulos/modulo_0/articulo_brujula_fitness.md)
 
 ## Módulo 1: Biomecánica Aplicada
 

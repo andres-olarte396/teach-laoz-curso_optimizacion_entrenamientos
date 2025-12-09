@@ -5,6 +5,10 @@ Generado por Teach-Laoz AI
 # MÓDULO 0
 
 TEMA: tema_0.1_metodo_cientifico
+ 
+ Recursos complementarios del módulo:
+ - Informe de Síntesis: Fundamentos del Entrenamiento Basado en Evidencia → [Abrir](modulos/modulo_0/informe_sintesis_entrenamiento_evidencia.md)
+ - Artículo: Tu Brújula Fitness → [Abrir](modulos/modulo_0/articulo_brujula_fitness.md)
 
 # Tema 0.1: Método Científico y Lectura Crítica de Literatura
 
