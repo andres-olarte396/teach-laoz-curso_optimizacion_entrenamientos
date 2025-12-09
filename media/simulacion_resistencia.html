@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Simulación: Perfil de Resistencia vs. Fuerza</title>
+    <style>
+        body { font-family: 'Inter', sans-serif; background: #f0f2f5; padding: 20px; text-align: center; }
+        .container { background: white; max-width: 800px; margin: 0 auto; padding: 30px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        h1 { color: #2d3748; }
+        .canvas-container { position: relative; height: 300px; margin-bottom: 20px; background: #f7fafc; border: 1px solid #e2e8f0; border-radius: 8px; }
+        canvas { width: 100%; height: 100%; }
+        .controls { display: flex; justify-content: center; gap: 20px; margin-top: 20px; }
+        button { padding: 10px 20px; border: none; border-radius: 6px; cursor: pointer; font-weight: bold; transition: background 0.2s; }
+        .btn-dumbbell { background: #e53e3e; color: white; }
+        .btn-cable { background: #3182ce; color: white; }
+        .btn-dumbbell:hover { background: #c53030; }
+        .btn-cable:hover { background: #2b6cb0; }
+        .legend { font-size: 0.9em; color: #718096; margin-top: 10px; }
+        .explanation { text-align: left; background: #ebf8ff; border-left: 4px solid #4299e1; padding: 15px; margin-top: 20px; border-radius: 4px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Simulador: Elevación Lateral</h1>
+        <p>Compara cómo afecta la herramienta (Mancuerna vs. Polea) al estímulo muscular.</p>
+        
+        <div class="canvas-container">
+            <canvas id="chart"></canvas>
+        </div>
+        <div class="legend">
+            <span style="color:green">● Curva de Fuerza (Deltoides)</span> | 
+            <span style="color:#e53e3e">● Resistencia (Mancuerna)</span> | 
+            <span style="color:#3182ce">● Resistencia (Polea)</span>
+        </div>
+
+        <div class="controls">
+            <button class="btn-dumbbell" onclick="setMode('dumbbell')">Ver Mancuerna</button>
+            <button class="btn-cable" onclick="setMode('cable')">Ver Polea</button>
+        </div>
+
+        <div id="explanation" class="explanation">
+            <h3>Selecciona una herramienta</h3>
+            <p>Observa cómo la curva de resistencia se alinea (o no) con la capacidad de fuerza natural de tu hombro.</p>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        const ctx = document.getElementById('chart').getContext('2d');
+        let chart;
+
+        // Datos aproximados
+        const angles = [0, 15, 30, 45, 60, 75, 90]; // Grados de abducción
+        const strengthCurve = [60, 75, 90, 100, 95, 80, 60]; // El hombro es más fuerte en el medio
+        
+        // Mancuerna: Torque = 0 al inicio (brazo pegado), Máximo a 90º
+        const dumbbellCurve = [10, 25, 45, 65, 80, 95, 100]; 
+        
+        // Polea (ajustada a la altura de la mano): Resistencia más constante
+        const cableCurve = [70, 75, 80, 80, 75, 70, 60]; 
+
+        function initChart() {
+            chart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: angles.map(a => a + '°'),
+                    datasets: [
+                        {
+                            label: 'Capacidad de Fuerza Humana',
+                            data: strengthCurve,
+                            borderColor: 'green',
+                            borderWidth: 3,
+                            borderDash: [5, 5],
+                            fill: false,
+                            tension: 0.4
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: { 
+                            beginAtZero: true, 
+                            title: { display: true, text: '% Capacidad / Carga' },
+                            max: 110
+                        },
+                        x: { 
+                            title: { display: true, text: 'Ángulo de Abducción' }
+                        }
+                    }
+                }
+            });
+        }
+
+        function setMode(mode) {
+            // Reset datasets
+            chart.data.datasets = [{
+                label: 'Capacidad de Fuerza (Deltoides)',
+                data: strengthCurve,
+                borderColor: 'green',
+                borderWidth: 3,
+                borderDash: [5, 5],
+                fill: false,
+                tension: 0.4
+            }];
+
+            const explDiv = document.getElementById('explanation');
+
+            if (mode === 'dumbbell') {
+                chart.data.datasets.push({
+                    label: 'Resistencia (Mancuerna)',
+                    data: dumbbellCurve,
+                    borderColor: '#e53e3e',
+                    borderWidth: 3,
+                    fill: true,
+                    backgroundColor: 'rgba(229, 62, 62, 0.1)',
+                    tension: 0.2
+                });
+                explDiv.innerHTML = `<h3>Mancuerna: Desajuste</h3><p>Nota cómo la línea ROJA (Resistencia) es bajísima al principio y altísima al final. <br><strong>Problema:</strong> El ejercicio es fácil donde eres fuerte, y durísimo donde eres débil (a 90°). Tu músculo se estimula poco en la primera mitad.</p>`;
+            } else {
+                chart.data.datasets.push({
+                    label: 'Resistencia (Polea)',
+                    data: cableCurve,
+                    borderColor: '#3182ce',
+                    borderWidth: 3,
+                    fill: true,
+                    backgroundColor: 'rgba(49, 130, 206, 0.1)',
+                    tension: 0.2
+                });
+                explDiv.innerHTML = `<h3>Polea: Ajuste Óptimo</h3><p>La línea AZUL (Polea) se mantiene más plana y cercana a la línea verde. <br><strong>Beneficio:</strong> Mantienes tensión constante en todo el recorrido. El ejercicio te desafía justamente en cada punto.</p>`;
+            }
+            chart.update();
+        }
+
+        initChart();
+    </script>
+</body>
+</html>
