@@ -6,6 +6,8 @@ En una serie tradicional de 10 repeticiones (Straight Set), la repetición 1 es 
 ¿Qué pasaría si pudieras hacer 10 repeticiones, pero que TODAS fueran igual de rápidas y técnicas que la primera?
 Bienvenido al mundo de los **Cluster Sets**.
 
+![Cluster Sets](../../media/infografia_7.2_cluster_sets.svg)
+
 ## 1. ¿Qué es un Cluster Set?
 
 Es dividir una serie larga en varios bloques pequeños con micro-descansos entre ellos.

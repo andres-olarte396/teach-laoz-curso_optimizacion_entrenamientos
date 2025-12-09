@@ -8,6 +8,8 @@ Obtenemos el **Entrenamiento Concéntrico Puro**.
 
 * **Ventaja**: Puedes entrenar con una frecuencia brutal (casi a diario) y recuperarte en horas, porque el daño muscular es casi cero.
 
+![Énfasis Concéntrico](../../media/infografia_7.6_concentricos.svg)
+
 ## 1. ¿Cómo eliminar la excéntrica?
 
 Necesitas eliminar la gravedad o la bajada.

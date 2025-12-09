@@ -122,28 +122,33 @@ Al finalizar este programa, serás capaz de:
 Este curso incorpora las últimas innovaciones del campo:
 
 ### 🎯 Velocity-Based Training (VBT)
+
 - Umbrales de velocidad por zona de entrenamiento
 - Autorregulación basada en pérdida de velocidad
 - Cuantificación objetiva de intensidad sin % de 1RM
 
 ### 💉 Blood Flow Restriction (BFR)
+
 - Protocolos de oclusión parcial
 - Hipertrofia con cargas ligeras (20-30% 1RM)
 - Aplicaciones en rehabilitación y adultos mayores
 
 ### 📊 Tecnología y Data Analytics
+
 - Encoders lineales y plataformas de fuerza
 - HRV monitoring para gestión de recuperación
 - Machine Learning para predicción de lesiones
 - Apps de tracking: Load, Monotony, Strain
 
 ### ⚡ Métodos Avanzados
+
 - Post-Activation Potentiation (PAP/PAPE)
 - Cluster Sets y descansos intra-serie
 - Entrenamiento de contraste (Complex Training)
 - Métodos excéntricos acentuados
 
 ### 🏃 Periodización Táctica
+
 - Morfociclo patrón para deportes de equipo
 - Gestión de congestión de partidos
 - Micro-dosis de estímulo en temporada
@@ -239,39 +244,42 @@ Cada tema incluye **infografías SVG personalizadas** que resumen conceptos clav
 Cada tema incluye:
 
 1. **📄 Contenido** (`*_contenido.md`)
+
    - Teoría fundamentada en evidencia
    - Ejemplos prácticos
    - Infografías integradas
    - Referencias científicas
 
 2. **✏️ Ejercicios** (`*_ejercicios.md`)
+
    - Casos prácticos
    - Análisis de situaciones reales
    - Aplicación de conceptos
 
 3. **📝 Evaluación** (`*_evaluacion.md`)
+
    - Test de conocimientos
    - Preguntas críticas
    - Aplicación práctica
 
-4. **🎬 Guión** (`*_guion.md`) *(temas seleccionados)*
+4. **🎬 Guión** (`*_guion.md`) _(temas seleccionados)_
    - Script para videos educativos
    - Estructura narrativa
    - Puntos clave de presentación
 
 ## 🗓️ Cronograma Sugerido (9 Meses)
 
-| Mes | Módulos | Hitos |
-|-----|---------|-------|
-| **1** | Módulo 0 + Módulo 1 | Evaluación inicial de clientes reales |
-| **2** | Módulo 2 | Examen fisiología, proyecto de caso |
-| **3** | Módulo 3 | Análisis biomecánico de ejercicios |
-| **4** | Módulo 4 (Temas 4.1-4.3) | Diseño de programa tradicional |
-| **5** | Módulo 4 (Temas 4.4-4.6) + Módulo 7 | Implementación VBT práctica |
-| **6** | Módulo 5 | Plan nutricional integrado |
-| **7** | Módulo 8 | Proyecto con wearables y data |
-| **8** | Módulo 9 | Protocolos de recuperación aplicados |
-| **9** | Módulo 6 + Proyecto Final | Presentación de caso completo A-Z |
+| Mes   | Módulos                             | Hitos                                 |
+| ----- | ----------------------------------- | ------------------------------------- |
+| **1** | Módulo 0 + Módulo 1                 | Evaluación inicial de clientes reales |
+| **2** | Módulo 2                            | Examen fisiología, proyecto de caso   |
+| **3** | Módulo 3                            | Análisis biomecánico de ejercicios    |
+| **4** | Módulo 4 (Temas 4.1-4.3)            | Diseño de programa tradicional        |
+| **5** | Módulo 4 (Temas 4.4-4.6) + Módulo 7 | Implementación VBT práctica           |
+| **6** | Módulo 5                            | Plan nutricional integrado            |
+| **7** | Módulo 8                            | Proyecto con wearables y data         |
+| **8** | Módulo 9                            | Protocolos de recuperación aplicados  |
+| **9** | Módulo 6 + Proyecto Final           | Presentación de caso completo A-Z     |
 
 ## 🏆 Certificación
 
@@ -296,27 +304,31 @@ Diseñar un programa completo de 12 semanas para un cliente real/ficticio incluy
 ## 📚 Referencias Principales
 
 ### Libros Fundamentales
+
 - **"Science and Development of Muscle Hypertrophy"** - Brad Schoenfeld (3rd Ed. 2024)
 - **"The Muscle and Strength Pyramids: Training"** - Eric Helms et al. (2024)
 - **"Velocity-Based Training"** - JJ Gonzalez-Badillo (2023)
 
 ### Journals de Alto Impacto
-- *Journal of Strength and Conditioning Research*
-- *Sports Medicine*
-- *Medicine & Science in Sports & Exercise*
-- *European Journal of Applied Physiology*
+
+- _Journal of Strength and Conditioning Research_
+- _Sports Medicine_
+- _Medicine & Science in Sports & Exercise_
+- _European Journal of Applied Physiology_
 
 ### Recursos Online
+
 - **Stronger by Science** (Greg Nuckols)
 - **MASS Research Review**
 - **Renaissance Periodization**
 - **PubMed/Google Scholar**
 
 ### Podcasts Recomendados
-- *The Stronger by Science Podcast*
-- *Revive Stronger*
-- *Iron Culture*
-- *Physique Science Radio*
+
+- _The Stronger by Science Podcast_
+- _Revive Stronger_
+- _Iron Culture_
+- _Physique Science Radio_
 
 ## 💡 Filosofía del Curso
 
@@ -334,6 +346,7 @@ La ciencia es la brújula, no el mapa exacto. Usamos evidencia como guía, pero 
 ## 🛠️ Tecnologías y Herramientas
 
 ### Para Entrenadores
+
 - Encoders lineales (GymAware, Vitruve, PUSH)
 - Apps de HRV (HRV4Training, Elite HRV, Whoop)
 - Plataformas de fuerza
@@ -341,6 +354,7 @@ La ciencia es la brújula, no el mapa exacto. Usamos evidencia como guía, pero 
 - Software de análisis de video
 
 ### Para Desarrollo del Curso
+
 - Markdown para contenido
 - SVG para infografías
 - JSON para metadatos
@@ -355,6 +369,7 @@ La ciencia es la brújula, no el mapa exacto. Usamos evidencia como guía, pero 
 - **Atletas avanzados** que programan su propio entrenamiento
 
 ### Nivel Requerido
+
 - **Intermedio-Avanzado**: Conocimientos básicos de anatomía y entrenamiento
 - Experiencia práctica en gimnasio (mínimo 1 año)
 - Capacidad de lectura de textos científicos en español/inglés
@@ -366,6 +381,7 @@ La ciencia es la brújula, no el mapa exacto. Usamos evidencia como guía, pero 
 **Estado:** En Desarrollo Activo
 
 ### Progreso Actual
+
 - ✅ Módulo 0: Fundamentos Científicos (100%)
 - ✅ Módulo 1: Biomecánica Aplicada (100%)
 - ✅ Módulo 2: Fisiología del Esfuerzo (100%)
@@ -379,7 +395,7 @@ La ciencia es la brújula, no el mapa exacto. Usamos evidencia como guía, pero 
 
 **Autor:** Teach-Laoz Learning  
 **Versión:** 2.0.0 - Edición 2025  
-**Lema:** *Evidencia en Movimiento*
+**Lema:** _Evidencia en Movimiento_
 
 ---
 

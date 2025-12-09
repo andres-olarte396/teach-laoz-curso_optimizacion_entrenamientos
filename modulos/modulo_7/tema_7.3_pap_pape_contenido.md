@@ -6,6 +6,8 @@
 Eso es porque tu cerebro preparó fuerza para 50kg y solo encontró 1kg.
 La **Potenciación Post-Activación (PAP)** es provocar ese efecto a propósito para saltar más alto o correr más rápido.
 
+![PAP/PAPE](../../media/infografia_7.3_pap_pape.svg)
+
 ## 1. PAP vs PAPE (La jerga científica)
 
 * **PAP (Post-Activation Potentiation)**: Efecto inmediato (< 3-5 min). Ocurre a nivel de fosforilación de la miosina. Es eléctrico.

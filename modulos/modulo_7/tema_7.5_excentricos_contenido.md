@@ -10,6 +10,8 @@ Si haces Press Banca con 100kg:
 * Pero bajarlo es "fácil" (estímulo 60% excéntrico). Desaprovechas fuerza.
 Los métodos excéntricos avanzados buscan sobrecargar esa fase olvidada.
 
+![Énfasis Excéntrico](../../media/infografia_7.5_excentricos.svg)
+
 ## 1. Beneficios Únicos de la Excéntrica
 
 1. **Hipertrofia Longitudinal**: Añade sarcómeros en serie. El músculo se hace más largo y fuerte en estiramiento. (Clave para isquios).

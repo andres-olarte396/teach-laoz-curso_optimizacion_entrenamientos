@@ -5,6 +5,8 @@
 Ya vimos la teoría (PAP). Ahora veremos la práctica: **Complex Training**.
 Se trata de combinar ejercicios de "Fuerza Lenta" con "Velocidad Rápida" en la misma sesión para mover la curva Fuerza-Velocidad completa.
 
+![Entrenamiento de Contraste](../../media/infografia_7.4_contraste.svg)
+
 ## 1. La Curva Fuerza-Velocidad
 
 Para ser un atleta completo (fútbol, rugby, MMA), no basta con ser fuerte (Powerlifter) ni rápido (Velocista). Necesitas ambas.

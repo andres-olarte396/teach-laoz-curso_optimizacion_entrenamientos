@@ -6,6 +6,8 @@ Imagina lograr el estímulo de una Sentadilla con 100kg, pero usando solo 30kg.
 Eso es el **BFR** (o Kaatsu).
 Se trata de poner un torniquete (cuff) en la extremidad para restringir el retorno venoso (sangre saliendo), pero manteniendo el flujo arterial (sangre entrando).
 
+![BFR/Oclusión](../../media/infografia_7.1_bfr.svg)
+
 ## 1. El Mecanismo: Estrés Metabólico Puro
 
 Al bloquear la salida de sangre, los metabolitos (lactato, iones H+) se acumulan brutalmente en el músculo porque no pueden "lavarse".
