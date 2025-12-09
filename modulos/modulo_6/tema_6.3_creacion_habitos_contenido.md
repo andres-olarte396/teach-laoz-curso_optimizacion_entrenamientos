@@ -6,6 +6,8 @@ Depender de la motivación es como depender de que haga sol para ir a trabajar. 
 Los profesionales no dependen de la motivación, dependen de los **XÁBITOS**.
 Usaremos el marco de "Atomic Habits" (James Clear) aplicado al fitness.
 
+![Creación de Hábitos](../../media/infografia_6.3_creacion_habitos.svg)
+
 ## 1. El Bucle del Hábito
 
 Todo hábito tiene 4 fases. Si hackeas estas fases, controlas tu conducta.

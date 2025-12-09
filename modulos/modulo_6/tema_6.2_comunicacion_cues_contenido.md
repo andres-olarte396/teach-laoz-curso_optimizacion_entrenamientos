@@ -6,6 +6,8 @@
 Estos son **Internal Cues** (Foco Interno). Y son, paradójicamente, menos efectivos para el rendimiento que sus hermanos: los **External Cues**.
 El cerebro piensa en *movimientos*, no en *músculos*.
 
+![Comunicación y Cues](../../media/infografia_6.2_comunicacion_cues.svg)
+
 ## 1. Internal vs External Cues
 
 * **Foco Interno (Músculo)**: "Extiende la rodilla usando el cuádriceps".

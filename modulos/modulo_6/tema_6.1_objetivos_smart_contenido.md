@@ -7,6 +7,8 @@ No es por falta de tiempo ni de dinero.
 Es porque su motivación es **extrínseca** ("Quiero que me miren en la playa") y débil.
 Para blindar la adherencia del cliente, necesitamos hackear su psicología usando la ciencia.
 
+![Objetivos SMART](../../media/infografia_6.1_objetivos_smart.svg)
+
 ## 1. Teoría de la Autodeterminación (SDT)
 
 Ryan y Deci descubrieron que el ser humano necesita nutrir 3 necesidades psicológicas básicas para mantener una conducta a largo plazo. Si tu entrenamiento no cubre esto, el cliente se irá.

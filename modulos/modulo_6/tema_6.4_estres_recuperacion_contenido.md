@@ -7,6 +7,8 @@ El entrenamiento añade agua. El trabajo añade agua. Las discusiones de pareja 
 Cuando el vaso rebosa, te lesionas o te enfermas.
 No puedes entrenar como un profesional si tienes el estrés de un ejecutivo.
 
+![Estrés y Recuperación](../../media/infografia_6.4_estres_recuperacion.svg)
+
 ## 1. Carga Alostática (La Mochila Invisible)
 
 El cuerpo no distingue fuentes de estrés.

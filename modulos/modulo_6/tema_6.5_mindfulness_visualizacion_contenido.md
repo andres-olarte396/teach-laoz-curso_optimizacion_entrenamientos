@@ -6,6 +6,8 @@ El cuerpo es el coche. La mente es el conductor.
 Si el conductor está distraído mirando el móvil, el Ferrari se estrellará.
 El Mindfulness aplicado al levantamiento no es meditar con incienso. Es **Atención Plena** en cada repetición.
 
+![Mindfulness y Visualización](../../media/infografia_6.5_mindfulness_visualizacion.svg)
+
 ## 1. Atención Plena Intra-Serie
 
 ¿En qué piensas mientras haces tu serie de 10?
