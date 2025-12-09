@@ -1,0 +1,18 @@
+# Guion Educativo: Periodización (Tema 4.2)
+
+**Personaje**: Entrenador Experto.
+**Duración Estimada**: 2:45 minutos.
+
+---
+
+**(00:00 - 00:30)**
+**LOCUTOR**: Hacer lo mismo una y otra vez esperando resultados diferentes es la definición de locura... y de estancamiento en el gym. Tu cuerpo es listo. Si siempre haces 3 de 10 con 20 kilos, tu cuerpo dice: "Ya sé hacer esto, no necesito crecer más".
+
+**(00:30 - 01:10)**
+**LOCUTOR**: Aquí entra la Periodización. No es más que planificar el éxito. El modelo clásico es el LINEAL. Empiezas suave y con muchas repeticiones, y mes a mes subes el peso y bajas las repeticiones. Es como subir una montaña paso a paso. Funciona de maravilla para principiantes.
+
+**(01:10 - 01:50)**
+**LOCUTOR**: Pero si tu cliente se aburre rápido, usa la ONDULANTE. Lunes pesado, Miércoles liviano, Viernes moderado. Es más dinámico y mantienes la fuerza y el tamaño al mismo tiempo. Es mi favorita para la mayoría de la gente normal.
+
+**(01:50 - Ends)**
+**LOCUTOR**: No necesitas una hoja de cálculo de la NASA. Solo necesitas asegurar que el próximo mes sea un poco más desafiante que este mes. Eso es periodizar. Progreso organizado.
