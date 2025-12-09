@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 900" style="background: linear-gradient(135deg, #0F2027 0%, #203A43 50%, #2C5364 100%);">
+  <defs>
+    <linearGradient id="techBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00D4FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0080FF;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="redAlert" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF416C;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF4B2B;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-opacity="0.4"/>
+    </filter>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Título -->
+  <text x="500" y="60" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="middle" filter="url(#glow)">
+    🎯 VISIÓN TERMINATOR
+  </text>
+  <text x="500" y="95" font-family="Arial, sans-serif" font-size="20" fill="#00D4FF" text-anchor="middle">
+    Análisis de Movimiento Tridimensional
+  </text>
+  
+  <!-- Sección 1: Regla del Triángulo -->
+  <rect x="50" y="130" width="900" height="180" rx="20" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  <circle cx="120" cy="180" r="30" fill="url(#techBlue)" filter="url(#glow)"/>
+  <text x="120" y="192" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">△</text>
+  
+  <text x="180" y="175" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0080FF">
+    REGLA DEL TRIÁNGULO
+  </text>
+  
+  <!-- Tres ángulos -->
+  <rect x="180" y="200" width="240" height="90" rx="12" fill="#E3F2FD"/>
+  <text x="300" y="230" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1565C0" text-anchor="middle">
+    📹 FRENTE
+  </text>
+  <text x="300" y="255" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Valgo de rodilla
+  </text>
+  <text x="300" y="275" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Colapso de arco
+  </text>
+  
+  <rect x="450" y="200" width="240" height="90" rx="12" fill="#E3F2FD"/>
+  <text x="570" y="230" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1565C0" text-anchor="middle">
+    📹 PERFIL
+  </text>
+  <text x="570" y="255" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Trayectoria de barra
+  </text>
+  <text x="570" y="275" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Ángulos articulares
+  </text>
+  
+  <rect x="720" y="200" width="220" height="90" rx="12" fill="#E3F2FD"/>
+  <text x="830" y="230" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1565C0" text-anchor="middle">
+    📹 ATRÁS
+  </text>
+  <text x="830" y="255" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Compensaciones
+  </text>
+  <text x="830" y="275" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Asimetrías
+  </text>
+  
+  <!-- Sección 2: 3 Marcadores Críticos -->
+  <rect x="50" y="340" width="900" height="240" rx="20" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  <text x="500" y="380" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#333" text-anchor="middle">
+    🔍 3 MARCADORES CRÍTICOS EN VIDEO
+  </text>
+  
+  <!-- Marcador 1 -->
+  <rect x="80" y="410" width="270" height="150" rx="15" fill="url(#techBlue)" opacity="0.1"/>
+  <circle cx="130" cy="450" r="22" fill="url(#techBlue)"/>
+  <text x="130" y="458" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white" text-anchor="middle">1</text>
+  <text x="215" y="445" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0080FF" text-anchor="middle">
+    TRAYECTORIA
+  </text>
+  <text x="215" y="465" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0080FF" text-anchor="middle">
+    DE LA BARRA
+  </text>
+  <text x="215" y="495" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Debe moverse casi
+  </text>
+  <text x="215" y="515" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    verticalmente sobre
+  </text>
+  <text x="215" y="535" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    centro del pie
+  </text>
+  
+  <!-- Marcador 2 -->
+  <rect x="365" y="410" width="270" height="150" rx="15" fill="url(#techBlue)" opacity="0.1"/>
+  <circle cx="415" cy="450" r="22" fill="url(#techBlue)"/>
+  <text x="415" y="458" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white" text-anchor="middle">2</text>
+  <text x="500" y="445" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0080FF" text-anchor="middle">
+    ÁNGULOS
+  </text>
+  <text x="500" y="465" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0080FF" text-anchor="middle">
+    ARTICULARES
+  </text>
+  <text x="500" y="495" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Tobillo: Dorsiflexión
+  </text>
+  <text x="500" y="515" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Cadera vs Rodilla:
+  </text>
+  <text x="500" y="535" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Sincronía de extensión
+  </text>
+  
+  <!-- Marcador 3 -->
+  <rect x="650" y="410" width="270" height="150" rx="15" fill="url(#techBlue)" opacity="0.1"/>
+  <circle cx="700" cy="450" r="22" fill="url(#techBlue)"/>
+  <text x="700" y="458" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white" text-anchor="middle">3</text>
+  <text x="785" y="445" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0080FF" text-anchor="middle">
+    STICKING
+  </text>
+  <text x="785" y="465" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#0080FF" text-anchor="middle">
+    POINTS
+  </text>
+  <text x="785" y="495" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Punto donde la barra
+  </text>
+  <text x="785" y="515" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    se frena = eslabón
+  </text>
+  <text x="785" y="535" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    débil del movimiento
+  </text>
+  
+  <!-- Herramientas -->
+  <rect x="50" y="610" width="900" height="220" rx="20" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  <text x="500" y="650" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#333" text-anchor="middle">
+    🛠️ HERRAMIENTAS ESENCIALES
+  </text>
+  
+  <rect x="100" y="680" width="250" height="120" rx="15" fill="#F3E5F5"/>
+  <text x="225" y="715" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#6A1B9A" text-anchor="middle">
+    💻 KINOVEA
+  </text>
+  <text x="225" y="740" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    PC - Gratis
+  </text>
+  <text x="225" y="760" font-family="Arial, sans-serif" font-size="13" fill="#555" text-anchor="middle">
+    Medir ángulos
+  </text>
+  <text x="225" y="780" font-family="Arial, sans-serif" font-size="13" fill="#555" text-anchor="middle">
+    Rastrear trayectorias
+  </text>
+  
+  <rect x="375" y="680" width="250" height="120" rx="15" fill="#E8F5E9"/>
+  <text x="500" y="715" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2E7D32" text-anchor="middle">
+    📱 DARTFISH / HUDL
+  </text>
+  <text x="500" y="740" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Móvil
+  </text>
+  <text x="500" y="760" font-family="Arial, sans-serif" font-size="13" fill="#555" text-anchor="middle">
+    Análisis rápido
+  </text>
+  <text x="500" y="780" font-family="Arial, sans-serif" font-size="13" fill="#555" text-anchor="middle">
+    en gimnasio/pista
+  </text>
+  
+  <rect x="650" y="680" width="250" height="120" rx="15" fill="#FFF3E0"/>
+  <text x="775" y="715" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#E65100" text-anchor="middle">
+    🎬 CÁMARA LENTA
+  </text>
+  <text x="775" y="740" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    120/240 fps
+  </text>
+  <text x="775" y="760" font-family="Arial, sans-serif" font-size="13" fill="#555" text-anchor="middle">
+    Pliometría
+  </text>
+  <text x="775" y="780" font-family="Arial, sans-serif" font-size="13" fill="#555" text-anchor="middle">
+    Levantamientos olímpicos
+  </text>
+  
+  <!-- Footer -->
+  <text x="500" y="870" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white" opacity="0.7">
+    Módulo 1.1 - Análisis de Movimiento Tridimensional | Curso de Optimización de Entrenamientos
+  </text>
+</svg>

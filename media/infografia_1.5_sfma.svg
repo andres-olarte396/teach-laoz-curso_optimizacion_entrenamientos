@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 900" style="background: linear-gradient(135deg, #232526 0%, #414345 100%);">
+  <defs>
+    <linearGradient id="fn" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4CAF50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#81C784;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="fp" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9800;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFB74D;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="dp" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F44336;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#EF5350;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="dn" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#64B5F6;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  
+  <!-- Título -->
+  <text x="500" y="60" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="middle">
+    🎯 SFMA: MATRIZ LÓGICA
+  </text>
+  <text x="500" y="95" font-family="Arial, sans-serif" font-size="20" fill="#B0B0B0" text-anchor="middle">
+    El lugar del dolor casi nunca es el lugar del problema
+  </text>
+  
+  <!-- Concepto de Interdependencia -->
+  <rect x="50" y="130" width="900" height="140" rx="20" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  <text x="500" y="170" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#333" text-anchor="middle">
+    🔗 INTERDEPENDENCIA REGIONAL
+  </text>
+  <text x="500" y="200" font-family="Arial, sans-serif" font-size="16" fill="#555" text-anchor="middle">
+    El cuerpo es una cadena. Si tiras de la tela en la cintura, también tira en el hombro.
+  </text>
+  <rect x="150" y="220" width="700" height="35" rx="10" fill="#E3F2FD"/>
+  <text x="500" y="243" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#1565C0" text-anchor="middle">
+    Ejemplo: Dolor de hombro derecho puede venir de tobillo izquierdo rígido
+  </text>
+  
+  <!-- Matriz 2x2 -->
+  <text x="500" y="310" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">
+    LA MATRIZ DN vs DP
+  </text>
+  
+  <!-- Ejes -->
+  <text x="250" y="360" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">
+    SIN DOLOR ←
+  </text>
+  <text x="750" y="360" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">
+    → CON DOLOR
+  </text>
+  
+  <text x="140" y="510" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle" transform="rotate(-90 140 510)">
+    FUNCIONAL ↑
+  </text>
+  <text x="140" y="730" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle" transform="rotate(-90 140 730)">
+    ↓ DISFUNCIONAL
+  </text>
+  
+  <!-- Cuadrante 1: FN (Funcional No-painful) -->
+  <rect x="200" y="380" width="280" height="200" rx="15" fill="url(#fn)" opacity="0.9" filter="url(#shadow)"/>
+  <text x="340" y="425" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white" text-anchor="middle">
+    FN
+  </text>
+  <text x="340" y="460" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">
+    Funcional
+  </text>
+  <text x="340" y="485" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">
+    Sin Dolor
+  </text>
+  <text x="340" y="520" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">
+    ✅ PERFECTO
+  </text>
+  <text x="340" y="545" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">
+    Continúa entrenando
+  </text>
+  <text x="340" y="565" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">
+    con normalidad
+  </text>
+  
+  <!-- Cuadrante 2: FP (Funcional Painful) -->
+  <rect x="520" y="380" width="280" height="200" rx="15" fill="url(#fp)" opacity="0.9" filter="url(#shadow)"/>
+  <text x="660" y="425" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white" text-anchor="middle">
+    FP
+  </text>
+  <text x="660" y="460" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">
+    Funcional
+  </text>
+  <text x="660" y="485" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">
+    Con Dolor
+  </text>
+  <text x="660" y="520" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">
+    🚩 BANDERA ROJA
+  </text>
+  <text x="660" y="545" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">
+    Deriva a médico/
+  </text>
+  <text x="660" y="565" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">
+    fisioterapeuta
+  </text>
+  
+  <!-- Cuadrante 3: DN (Disfuncional No-painful) -->
+  <rect x="200" y="620" width="280" height="200" rx="15" fill="url(#dn)" opacity="0.9" filter="url(#shadow)"/>
+  <text x="340" y="665" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white" text-anchor="middle">
+    DN
+  </text>
+  <text x="340" y="700" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">
+    Disfuncional
+  </text>
+  <text x="340" y="725" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">
+    Sin Dolor
+  </text>
+  <text x="340" y="760" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">
+    💎 TU MINA DE ORO
+  </text>
+  <text x="340" y="785" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">
+    Aquí trabajas como
+  </text>
+  <text x="340" y="805" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">
+    entrenador. Corrígelo.
+  </text>
+  
+  <!-- Cuadrante 4: DP (Disfuncional Painful) -->
+  <rect x="520" y="620" width="280" height="200" rx="15" fill="url(#dp)" opacity="0.9" filter="url(#shadow)"/>
+  <text x="660" y="665" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white" text-anchor="middle">
+    DP
+  </text>
+  <text x="660" y="700" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">
+    Disfuncional
+  </text>
+  <text x="660" y="725" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">
+    Con Dolor
+  </text>
+  <text x="660" y="760" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">
+    🛑 BANDERA ROJA
+  </text>
+  <text x="660" y="785" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">
+    Deriva a médico/
+  </text>
+  <text x="660" y="805" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">
+    fisioterapeuta
+  </text>
+  
+  <!-- Key Insight -->
+  <rect x="100" y="840" width="800" height="35" rx="10" fill="#FFD700" opacity="0.9"/>
+  <text x="500" y="863" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#333" text-anchor="middle">
+    💡 Si corriges DN, a menudo el dolor en FP/DP desaparece (quitaste la compensación)
+  </text>
+  
+  <!-- Footer -->
+  <text x="500" y="890" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white" opacity="0.7">
+    Módulo 1.5 - SFMA Simplificado | Curso de Optimización de Entrenamientos
+  </text>
+</svg>
