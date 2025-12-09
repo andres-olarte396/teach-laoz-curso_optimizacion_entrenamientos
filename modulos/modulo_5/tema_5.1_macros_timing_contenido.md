@@ -6,6 +6,8 @@ Todos saben que las calorías dictan el peso (Termodinámica).
 Pero los MACROS y el TIMING dictan de qué está hecho ese peso (músculo vs grasa).
 No alimentes solo al cuerpo, alimenta la señal de crecimiento (MPS).
 
+![Macronutrientes y Timing](../../media/infografia_5.1_macros_timing.svg)
+
 ## 1. Proteína: El umbral de Leucina
 
 No basta con comer proteína "al final del día". Necesitas disparar la **Síntesis Proteica Muscular (MPS)** varias veces.

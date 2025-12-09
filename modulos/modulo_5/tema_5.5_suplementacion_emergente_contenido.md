@@ -6,6 +6,8 @@ Ya tienes Creatina y Cafeína. ¿Qué más hay?
 La ciencia avanza y nuevos compuestos están pasando de "Grado B" (Prometedor) a "Grado A" (Confirmado).
 Aquí analizamos los 4 fantásticos nuevos: Citrulina, Nitratos, HMB y Ashwagandha.
 
+![Suplementación Emergente](../../media/infografia_5.5_suplementacion_emergente.svg)
+
 ## 1. Citrulina Malato (El Pump Funcional)
 
 * **¿Qué es?**: Un aminoácido que se convierte en Arginina en los riñones -> Óxido Nítrico -> Vasodilatación.

@@ -6,6 +6,8 @@ Igual que periodizas las pesas (Volumen/Intensidad), debes periodizar la comida.
 Comer siempre "Perfecto" (alto en carbos) a veces es contraproducente para ciertas adaptaciones metabólicas.
 Bienvenido al mundo de la Flexibilidad Metabólica.
 
+![Periodización Nutricional](../../media/infografia_5.4_periodizacion_nutricional.svg)
+
 ## 1. El Concepto "Train Low" (Entrenar Bajo)
 
 Consiste en entrenar deliberadamente con **bajos depósitos de glucógeno**.

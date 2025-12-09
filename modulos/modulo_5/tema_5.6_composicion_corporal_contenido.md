@@ -6,6 +6,8 @@ Comer siempre igual lleva a estancarse siempre igual.
 El cuerpo se adapta (Homeostasis). Si comes poco mucho tiempo, tu metabolismo baja. Si comes mucho, te pones gordo.
 La solución son las fases cortas y agresivas.
 
+![Composición Corporal](../../media/infografia_5.6_composicion_corporal.svg)
+
 ## 1. El Mini-Cut (Definición Relámpago)
 
 Estás en fase de volumen. Llevas 4 meses ganando músculo, pero también has ganado grasa y te sientes pesado/hinchado.

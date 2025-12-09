@@ -6,6 +6,8 @@ Entra a una tienda de suplementos. El 95% de lo que ves no tiene evidencia sóli
 El Instituto Australiano del Deporte (AIS) clasifica los suplementos en Grados (A, B, C, D).
 Solo hablaremos del **Grado A**: Evidencia sólida y seguridad confirmada.
 
+![Suplementación Grado A](../../media/infografia_5.2_suplementacion_grado_a.svg)
+
 ## 1. Creatina Monohidrato (La Reina)
 
 * **¿Qué hace?**: Dona un grupo fosfato para recargar el ATP (sistema "Nitro"). Te permite hacer 1-2 repeticiones extra con el mismo peso. Más volumen = Más hipertrofia.

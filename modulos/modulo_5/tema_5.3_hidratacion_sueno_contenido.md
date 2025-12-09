@@ -5,6 +5,8 @@
 Puedes tener el mejor motor (Entreno) y la mejor gasolina (Nutrición), pero si no tienes aceite (Agua) el motor gripará. Y si no lo llevas al taller por la noche (Sueño), se romperá.
 Son aburridos, no se venden en botes bonitos, pero son el 90% de tu recuperación.
 
+![Hidratación y Sueño](../../media/infografia_5.3_hidratacion_sueno.svg)
+
 ## 1. Hidratación: Más que Agua
 
 * **El Mito**: "Bebe 2 litros al día".
