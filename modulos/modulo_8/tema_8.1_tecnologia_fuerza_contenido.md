@@ -5,6 +5,8 @@
 Levantar pesas sin medir velocidad es como conducir un coche sin velocímetro. Sabes que te mueves, pero no sabes si vas a 20 o a 100 km/h.
 La tecnología de hoy nos permite ver lo invisible: Fuerza, Potencia y Velocidad.
 
+![Tecnología de Fuerza](../../media/infografia_8.1_tecnologia_fuerza.svg)
+
 ## 1. Encoders Lineales (El Velocímetro)
 
 Un aparato con un cable que se engancha a la barra.

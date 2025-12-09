@@ -6,6 +6,8 @@ Hace 10 años, medir la variabilidad cardíaca requería un ECG de hospital.
 Hoy, tu reloj (Apple Watch, Garmin, Whoop, Oura) lo hace mientras duermes.
 El problema no es tener datos, es saber qué significan.
 
+![Wearables](../../media/infografia_8.2_wearables.svg)
+
 ## 1. HRV (Variabilidad de la Frecuencia Cardíaca)
 
 No confundir con Pulso (Latidos por minuto).

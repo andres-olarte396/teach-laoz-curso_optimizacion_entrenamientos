@@ -6,6 +6,8 @@ Si tienes 20 atletas y usas WhatsApp para mandar rutinas, vas a colapsar.
 Si usas papel, los datos mueren en el papel.
 Necesitas un **sistema centralizado**. Excel (o Google Sheets) es la herramienta más poderosa y flexible del mundo, si sabes usarla.
 
+![Gestión de Datos](../../media/infografia_8.6_gestion_datos.svg)
+
 ## 1. Estructura de Base de Datos
 
 No hagas una hoja por atleta desligada de todo.

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1150 900">
+  <defs>
+    <linearGradient id="gd1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <rect width="1150" height="900" fill="#0b1220"/>
+  <text x="575" y="70" fill="#e5e7eb" font-size="36" text-anchor="middle" font-family="Inter,Segoe UI">Gestión de Datos</text>
+
+  <g filter="url(#shadow)">
+    <rect x="80" y="120" width="990" height="300" rx="16" fill="#111827" stroke="#1f2937"/>
+    <text x="100" y="155" fill="#9ca3af" font-size="18">Pipeline</text>
+    <text x="100" y="185" fill="#e5e7eb" font-size="16">• Captura → Limpieza → Almacenamiento</text>
+    <text x="100" y="215" fill="#e5e7eb" font-size="16">• Análisis → Visualización → Decisión</text>
+    <text x="100" y="245" fill="#e5e7eb" font-size="16">• Seguridad y acceso</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="80" y="450" width="990" height="330" rx="16" fill="#111827" stroke="#1f2937"/>
+    <text x="100" y="485" fill="#9ca3af" font-size="18">Principios</text>
+    <text x="100" y="515" fill="#e5e7eb" font-size="16">• Trazabilidad y calidad de datos</text>
+    <text x="100" y="545" fill="#e5e7eb" font-size="16">• Estandarización de protocolos</text>
+    <text x="100" y="575" fill="#e5e7eb" font-size="16">• Privacidad (GDPR/consentimiento informado)</text>
+  </g>
+</svg>

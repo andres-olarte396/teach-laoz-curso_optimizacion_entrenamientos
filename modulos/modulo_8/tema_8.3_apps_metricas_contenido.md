@@ -6,6 +6,8 @@ El cuaderno de papel es romántico, pero no calcula estadísticas.
 Las Apps modernas (TrainHeroic, Hevy, Strong) no son solo para registrar series. Son herramientas de Business Intelligence para tu cuerpo.
 Vamos a ver las métricas invisibles que estas apps calculan.
 
+![Apps y Métricas](../../media/infografia_8.3_apps_metricas.svg)
+
 ## 1. Volume Load (Carga de Volumen)
 
 * **Fórmula**: `Series x Repeticiones x Peso` (Total Tonelaje).

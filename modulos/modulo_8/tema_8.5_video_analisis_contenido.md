@@ -6,6 +6,8 @@ El ojo captura a 30-60 fps (frames por segundo), pero el cerebro procesa lento.
 En un levantamiento olímpico, la barra pasa de la rodilla a la cadera en 0.2 segundos. Es imposible ver si hubo "early arm bend" (flexión temprana de brazos) a simple vista.
 El video es la cámara lenta de la verdad.
 
+![Video Análisis](../../media/infografia_8.5_video_analisis.svg)
+
 ## 1. Kinovea (El Estándar Gratuito)
 
 Es un software Open Source para PC.

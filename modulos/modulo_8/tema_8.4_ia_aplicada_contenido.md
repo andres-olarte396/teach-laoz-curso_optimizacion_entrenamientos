@@ -6,6 +6,8 @@ No. La IA no tiene empatía, no puede corregir un matiz emocional en la cara de 
 Pero la IA puede procesar 1 millón de datos en 1 segundo. Tú no.
 La IA no te sustituye, te **aumenta**.
 
+![IA Aplicada](../../media/infografia_8.4_ia_aplicada.svg)
+
 ## 1. Predicción de Lesiones (Machine Learning)
 
 El "Santo Grial".
