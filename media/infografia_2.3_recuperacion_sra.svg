@@ -1,0 +1,236 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1050" style="background: linear-gradient(135deg, #0F2027 0%, #203A43 50%, #2C5364 100%);">
+  <defs>
+    <linearGradient id="stimulus" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E74C3C;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#C0392B;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="recovery" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F39C12;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E67E22;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="adaptation" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#27AE60;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#229954;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="detraining" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#95A5A6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7F8C8D;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-opacity="0.4"/>
+    </filter>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Título -->
+  <text x="550" y="60" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="middle">
+    📊 LA CURVA SRA
+  </text>
+  <text x="550" y="95" font-family="Arial, sans-serif" font-size="20" fill="#B0D4FF" text-anchor="middle">
+    Stimulus → Recovery → Adaptation (El Santo Grial de la Periodización)
+  </text>
+  
+  <!-- Gráfico de la curva SRA -->
+  <rect x="100" y="130" width="900" height="450" rx="15" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  
+  <!-- Ejes del gráfico -->
+  <line x1="150" y1="520" x2="950" y2="520" stroke="#333" stroke-width="3"/>
+  <line x1="150" y1="180" x2="150" y2="520" stroke="#333" stroke-width="3"/>
+  
+  <!-- Etiquetas de ejes -->
+  <text x="550" y="560" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333" text-anchor="middle">
+    ⏱️ TIEMPO
+  </text>
+  <text x="120" y="350" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333" text-anchor="middle" transform="rotate(-90 120 350)">
+    💪 CAPACIDAD
+  </text>
+  
+  <!-- Línea base (nivel inicial) -->
+  <line x1="150" y1="380" x2="950" y2="380" stroke="#3498DB" stroke-width="2" stroke-dasharray="10,5" opacity="0.6"/>
+  <text x="960" y="385" font-family="Arial, sans-serif" font-size="12" fill="#3498DB">
+    Nivel Base
+  </text>
+  
+  <!-- La Curva SRA -->
+  <path d="M 200 380 
+           L 300 450
+           Q 400 480, 500 420
+           Q 600 360, 700 340
+           L 800 340
+           Q 850 340, 900 370" 
+        stroke="#2C3E50" stroke-width="5" fill="none" filter="url(#glow)"/>
+  
+  <!-- Fase 1: STIMULUS -->
+  <circle cx="200" cy="380" r="12" fill="url(#stimulus)" filter="url(#shadow)"/>
+  <rect x="180" y="240" width="140" height="120" rx="12" fill="url(#stimulus)" opacity="0.95" filter="url(#shadow)"/>
+  <text x="250" y="265" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">
+    ⚡ ESTÍMULO
+  </text>
+  <text x="250" y="290" font-family="Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">
+    Sesión de entrenamiento
+  </text>
+  <text x="250" y="310" font-family="Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">
+    • Fatiga aguda
+  </text>
+  <text x="250" y="330" font-family="Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">
+    • Daño muscular
+  </text>
+  <text x="250" y="350" font-family="Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">
+    • Depleción
+  </text>
+  
+  <!-- Fase 2: RECOVERY -->
+  <circle cx="400" cy="480" r="12" fill="url(#recovery)" filter="url(#shadow)"/>
+  <rect x="340" y="490" width="140" height="80" rx="12" fill="url(#recovery)" opacity="0.95" filter="url(#shadow)"/>
+  <text x="410" y="515" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">
+    🔄 RECUPERACIÓN
+  </text>
+  <text x="410" y="540" font-family="Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">
+    Volver al nivel base
+  </text>
+  <text x="410" y="560" font-family="Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">
+    24-72h típicamente
+  </text>
+  
+  <!-- Fase 3: ADAPTATION (Supercompensación) -->
+  <circle cx="600" cy="360" r="12" fill="url(#adaptation)" filter="url(#shadow)"/>
+  <rect x="540" y="180" width="140" height="140" rx="12" fill="url(#adaptation)" opacity="0.95" filter="url(#shadow)"/>
+  <text x="610" y="205" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">
+    ⬆️ ADAPTACIÓN
+  </text>
+  <text x="610" y="228" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">
+    ¡SUPERCOMPENSACIÓN!
+  </text>
+  <text x="610" y="250" font-family="Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">
+    • Más fuerte
+  </text>
+  <text x="610" y="270" font-family="Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">
+    • Más músculo
+  </text>
+  <text x="610" y="290" font-family="Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">
+    • + Capacidad
+  </text>
+  <text x="610" y="310" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FFF59D" text-anchor="middle">
+    🎯 MOMENTO IDEAL
+  </text>
+  
+  <!-- Fase 4: DETRAINING -->
+  <circle cx="850" cy="340" r="12" fill="url(#detraining)" filter="url(#shadow)"/>
+  <rect x="790" y="395" width="140" height="100" rx="12" fill="url(#detraining)" opacity="0.95" filter="url(#shadow)"/>
+  <text x="860" y="420" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">
+    📉 DESENTRENAMIENTO
+  </text>
+  <text x="860" y="445" font-family="Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">
+    Pérdida gradual si
+  </text>
+  <text x="860" y="465" font-family="Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">
+    no hay nuevo
+  </text>
+  <text x="860" y="485" font-family="Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">
+    estímulo
+  </text>
+  
+  <!-- Tabla de tiempos de recuperación por sistema -->
+  <rect x="100" y="610" width="900" height="350" rx="15" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  
+  <text x="550" y="650" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#2C3E50" text-anchor="middle">
+    ⏰ Tiempos de Recuperación por Sistema
+  </text>
+  
+  <!-- Encabezados de tabla -->
+  <rect x="130" y="680" width="280" height="45" fill="#34495E"/>
+  <text x="270" y="710" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">
+    SISTEMA
+  </text>
+  
+  <rect x="410" y="680" width="260" height="45" fill="#34495E"/>
+  <text x="540" y="710" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">
+    RECUPERACIÓN
+  </text>
+  
+  <rect x="670" y="680" width="300" height="45" fill="#34495E"/>
+  <text x="820" y="710" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">
+    FRECUENCIA ÓPTIMA
+  </text>
+  
+  <!-- Fila 1: Nervioso -->
+  <rect x="130" y="725" width="280" height="50" fill="#E8F8F5"/>
+  <text x="270" y="755" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    ⚡ Nervioso (Fuerza Max)
+  </text>
+  
+  <rect x="410" y="725" width="260" height="50" fill="#E8F8F5"/>
+  <text x="540" y="755" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#E74C3C" text-anchor="middle">
+    48-72 horas
+  </text>
+  
+  <rect x="670" y="725" width="300" height="50" fill="#E8F8F5"/>
+  <text x="820" y="755" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    2-3x semana
+  </text>
+  
+  <!-- Fila 2: Muscular -->
+  <rect x="130" y="775" width="280" height="50" fill="white"/>
+  <text x="270" y="805" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    💪 Muscular (Hipertrofia)
+  </text>
+  
+  <rect x="410" y="775" width="260" height="50" fill="white"/>
+  <text x="540" y="805" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#E67E22" text-anchor="middle">
+    24-48 horas
+  </text>
+  
+  <rect x="670" y="775" width="300" height="50" fill="white"/>
+  <text x="820" y="805" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    2-3x semana (por grupo)
+  </text>
+  
+  <!-- Fila 3: Metabólico -->
+  <rect x="130" y="825" width="280" height="50" fill="#E8F8F5"/>
+  <text x="270" y="855" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    🔥 Metabólico (Anaeróbico)
+  </text>
+  
+  <rect x="410" y="825" width="260" height="50" fill="#E8F8F5"/>
+  <text x="540" y="855" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#F39C12" text-anchor="middle">
+    24-36 horas
+  </text>
+  
+  <rect x="670" y="825" width="300" height="50" fill="#E8F8F5"/>
+  <text x="820" y="855" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    3-4x semana
+  </text>
+  
+  <!-- Fila 4: Cardio -->
+  <rect x="130" y="875" width="280" height="50" fill="white"/>
+  <text x="270" y="905" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    🏃 Aeróbico (Cardio)
+  </text>
+  
+  <rect x="410" y="875" width="260" height="50" fill="white"/>
+  <text x="540" y="905" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27AE60" text-anchor="middle">
+    12-24 horas
+  </text>
+  
+  <rect x="670" y="875" width="300" height="50" fill="white"/>
+  <text x="820" y="905" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    5-7x semana (baja intensidad)
+  </text>
+  
+  <!-- Nota importante -->
+  <rect x="130" y="930" width="840" height="20" rx="8" fill="#FFF59D"/>
+  <text x="550" y="945" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#C62828" text-anchor="middle">
+    🎯 Entrena en el pico de adaptación para MÁXIMA PROGRESIÓN. Muy pronto = Overreaching / Muy tarde = Desentrenamiento
+  </text>
+  
+  <!-- Footer -->
+  <text x="550" y="1025" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white" opacity="0.7">
+    Módulo 2.3 - Recuperación SRA | Curso de Optimización de Entrenamientos
+  </text>
+</svg>
