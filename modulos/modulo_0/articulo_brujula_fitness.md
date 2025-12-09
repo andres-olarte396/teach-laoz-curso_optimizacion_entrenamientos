@@ -136,3 +136,9 @@ La práctica **Evidence-Informed** se apoya en tres patas:
 La ciencia es tu brújula, no tu mapa detallado. Te da dirección, pero tú navegas el terreno.
 
 > La ciencia no te da respuestas absolutas, te da mejores preguntas. Úsala para cuestionar, no para dogmatizar.
+
+---
+
+### Recursos relacionados
+
+- [Documento de Referencias (IA y mercado laboral)](referencias_ia_mercado_laboral.md)

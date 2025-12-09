@@ -10,7 +10,9 @@ Recursos complementarios del módulo:
 
 - Informe de Síntesis: Fundamentos del Entrenamiento Basado en Evidencia → [Abrir](modulos/modulo_0/informe_sintesis_entrenamiento_evidencia.md)
 - Artículo: Tu Brújula Fitness → [Abrir](modulos/modulo_0/articulo_brujula_fitness.md)
- - Infografía: Tu Brújula Científica → [Abrir](modulos/modulo_0/infografia_brujula_cientifica.md)
+- Infografía: Tu Brújula Científica → [Abrir](modulos/modulo_0/infografia_brujula_cientifica.md)
+- Recursos Multimedia (Video/Audio) → [Abrir](modulos/modulo_0/recursos_multimedia.md)
+- Referencias: IA y Mercado Laboral → [Abrir](modulos/modulo_0/referencias_ia_mercado_laboral.md)
 
 # Tema 0.1: Método Científico y Lectura Crítica de Literatura
 

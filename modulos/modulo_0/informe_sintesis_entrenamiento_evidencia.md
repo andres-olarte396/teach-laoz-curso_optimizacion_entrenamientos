@@ -13,6 +13,8 @@ Los puntos críticos a destacar son:
 
 En conclusión, un enfoque profesional y efectivo del entrenamiento requiere una "mesa de tres patas": la mejor evidencia científica disponible, la experiencia clínica del entrenador y las preferencias individuales del cliente.
 
+> Referencia adicional: [Documento de Referencias (IA y mercado laboral)](referencias_ia_mercado_laboral.md)
+
 ---
 
 ## 1. El Método Científico como Herramienta para el Entrenamiento
