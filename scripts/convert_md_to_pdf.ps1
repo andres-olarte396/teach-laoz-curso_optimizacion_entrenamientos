@@ -43,6 +43,7 @@ function Convert-MdToPdf($mdRelPath) {
         --pdf-engine=wkhtmltopdf `
         --metadata title="$name" `
         --embed-resources `
+        --resource-path "$root;$root/media" `
         --standalone `
         --table-of-contents `
         --toc-depth=3 `
