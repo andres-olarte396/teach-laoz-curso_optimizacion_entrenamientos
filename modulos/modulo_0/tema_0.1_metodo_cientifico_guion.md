@@ -1,0 +1,87 @@
+# GUIÓN: Módulo 0 - Tema 0.1: Método Científico y Lectura Crítica
+
+## FICHA TÉCNICA
+
+- **Duración Estimada**: 4-5 minutos
+- **Tono**: Profesional, educativo y desmitificador.
+
+---
+
+### 00:00 - INTRODUCCIÓN
+
+**[LOCUTOR]**: (Tono firme y claro)
+Imagina por un momento que el entrenamiento es como explorar un territorio completamente desconocido, una selva virgen si quieres verlo así.
+
+**[LOCUTOR]**:
+En esta travesía, tu experiencia personal es como caminar mirando tus propios pies. Sabes dónde estás pisando ahora mismo, es verdad, pero no tienes ni idea de a dónde vas.
+
+**[LOCUTOR]**:
+Luego están los "gurús" de internet. Ellos te venden mapas detallados, llenos de rutas y tesoros. El problema es que, a menudo, esos mapas son falsos o están terriblemente anticuados.
+
+**[LOCUTOR]**:
+Entonces, ¿qué nos queda? Nos queda la Ciencia. La ciencia es tu brújula. No te va a decir exactamente dónde está cada árbol ni cada piedra, pero te asegura una cosa vital: que vas hacia el Norte y que no estás caminando en círculos.
+
+**[LOCUTOR]**:
+En este primer tema, vamos a aprender a calibrar esa brújula. Vamos a aprender a diferenciar la señal del ruido.
+
+---
+
+### 00:50 - LA JERARQUÍA DE LA EVIDENCIA
+
+**[LOCUTOR]**:
+Para empezar, visualiza una pirámide. Lo que está en la base es abundante, hay muchísimo, pero es de baja calidad. Lo que está en la cima es escaso, cuesta encontrarlo, pero es puro oro.
+
+**[LOCUTOR]**:
+En la base, el Nivel 1, tenemos la **Opinión de Expertos y las Anécdotas**. El clásico "a mí me funcionó". Piénsalo como un chisme: puede ser cierto, sí, pero mejor verifícalo antes de creerlo.
+
+**[LOCUTOR]**:
+Subiendo un poco, encontramos los Estudios de Caso y los Estudios Transversales, que son como tomar una foto de un momento concreto. Útiles, pero incompletos.
+
+**[LOCUTOR]**:
+Pero si seguimos subiendo, llegamos al Nivel 5: los **Ensayos Controlados Aleatorizados**, o RCT por sus siglas en inglés. Este es el estándar de oro.
+_(Pausa explicativa)_
+¿Cómo funciona? Imagina que tomas a dos gemelos idénticos. A uno le das creatina y al otro una pastilla de azúcar. Si el primero crece más, sabes que fue la creatina. Es Causa y Efecto, sin dudas.
+
+**[LOCUTOR]**:
+Y finalmente, en la cima absoluta, tenemos el **Meta-análisis**. Esto es juntar todos los estudios rigurosos del mundo sobre un tema y sacar una conclusión global. Es, por así decirlo, la verdad suprema hasta el momento. La regla es simple: un Meta-análisis mata la opinión de tu influencer favorito.
+
+---
+
+### 02:30 - ANATOMÍA DE UN PAPER
+
+**[LOCUTOR]**:
+Ahora, sé que leer ciencia asusta. Pero no necesitas ser un académico para entender un estudio. Solo necesitas buscar cuatro cosas clave en 5 minutos.
+
+**[LOCUTOR]**:
+Primero, el **Abstract**. Es el tráiler de la película, te dice de qué va.
+
+**[LOCUTOR]**:
+Segundo, y aquí está la trampa, los **MÉTODOS**. Pregúntate: ¿Quiénes participaron? Si el estudio usó ancianos de 80 años, ¿realmente aplica eso a tu atleta de 20? El contexto es rey.
+
+**[LOCUTOR]**:
+Tercero, los **Resultados**. Busca si hubo diferencias reales. Aquí aparece el famoso "P-value menor a 0.05". No te compliques: eso solo significa que hay menos de un 5% de probabilidad de que el resultado fuera suerte. Es el sello de calidad estadística.
+
+**[LOCUTOR]**:
+Y cuarto, la **Discusión**. Es la opinión de los autores. Léela, pero tómala con pinzas.
+
+---
+
+### 03:40 - APLICACIÓN PRÁCTICA
+
+**[LOCUTOR]**:
+Para terminar, quiero aclarar algo importante. Ser "basado en evidencia" o "Evidence-Informed" NO significa ser un robot científico.
+
+**[LOCUTOR]**:
+Es como una mesa de tres patas.
+La primera pata es la **mejor evidencia disponible**, lo que dicen los papers.
+La segunda es tu **experiencia como entrenador**, tu ojo clínico.
+Y la tercera, y a veces la más importante, son las **preferencias del cliente**.
+
+**[LOCUTOR]**:
+Porque si el estudio dice que la Sentadilla es el mejor ejercicio del mundo, pero a tu cliente le duele cada vez que la hace, entonces NO la haces. Así de simple.
+
+**[LOCUTOR]**:
+Recuerda: la ciencia no te da respuestas absolutas, te da mejores preguntas. Úsala para cuestionar, no para dogmatizar.
+_(Pausa final reflexiva)_
+
+---
