@@ -1,0 +1,7 @@
+Datos, datos, datos. Si tienes 20 clientes, tienes un caos. Excel es poderoso, pero peligroso si no eres organizado. Vamos a hablar de cómo automatizar tu vida para pasar menos tiempo en el ordenador y más en el gimnasio.
+
+ Google Sheets es tu aliado. Aprende fórmulas básicas como VLOOKUP o condicionales para que la celda se ponga roja si tu cliente ha perdido fuerza. Crea un "Dashboard" visual donde puedas ver la salud de todos tus atletas de un vistazo.
+
+ La automatización con Zapier puede enviar un email de felicitación automático cuando un cliente rompe un récord. Pequeños detalles que fidelizan.
+
+ Recuerda: Los datos deben servirte a ti, no tú a los datos. Simplifica y visualiza.
