@@ -1,3 +1,5 @@
+/# Ignorar salidas generadas de conversión a PDF
+/pdf/
 # Archivos de entorno y configuración sensible
 .env
 .env.local
