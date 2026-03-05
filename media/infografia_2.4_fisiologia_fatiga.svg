@@ -1,0 +1,184 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1000" style="background: linear-gradient(135deg, #2C3E50 0%, #34495E 100%);">
+  <defs>
+    <linearGradient id="peripheral" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E74C3C;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#C0392B;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="central" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9B59B6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8E44AD;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-opacity="0.5"/>
+    </filter>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Título -->
+  <text x="550" y="60" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="middle">
+    ⚡ LA BATALLA DE LA FATIGA
+  </text>
+  <text x="550" y="95" font-family="Arial, sans-serif" font-size="20" fill="#B0D4FF" text-anchor="middle">
+    Periférica vs Central: Dos Enemigos, Dos Estrategias
+  </text>
+  
+  <!-- División central -->
+  <line x1="550" y1="130" x2="550" y2="850" stroke="white" stroke-width="4" stroke-dasharray="15,10" opacity="0.3"/>
+  
+  <!-- FATIGA PERIFÉRICA -->
+  <rect x="80" y="130" width="420" height="720" rx="20" fill="url(#peripheral)" opacity="0.15" filter="url(#shadow)"/>
+  
+  <rect x="120" y="160" width="340" height="60" rx="15" fill="url(#peripheral)" filter="url(#shadow)"/>
+  <text x="290" y="200" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">
+    💪 FATIGA PERIFÉRICA
+  </text>
+  
+  <text x="290" y="250" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    📍 DÓNDE:
+  </text>
+  <text x="290" y="280" font-family="Arial, sans-serif" font-size="15" fill="white">
+    En el músculo mismo
+  </text>
+  
+  <rect x="120" y="310" width="340" height="180" rx="12" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  <text x="290" y="340" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#C0392B" text-anchor="middle">
+    🔬 CAUSAS
+  </text>
+  <text x="135" y="370" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Acumulación de metabolitos
+  </text>
+  <text x="135" y="395" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    &nbsp;&nbsp;(H⁺, Pi, lactato, ADP)
+  </text>
+  <text x="135" y="420" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Depleción de glucógeno
+  </text>
+  <text x="135" y="445" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Daño mecánico (excéntricas)
+  </text>
+  <text x="135" y="470" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Fallo en puentes cruzados
+  </text>
+  
+  <rect x="120" y="510" width="340" height="130" rx="12" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  <text x="290" y="540" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#C0392B" text-anchor="middle">
+    😫 SENSACIÓN
+  </text>
+  <text x="135" y="570" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • "Quemazón" local
+  </text>
+  <text x="135" y="595" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Bombeo / congestión
+  </text>
+  <text x="135" y="620" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • No puedes contraer más
+  </text>
+  
+  <rect x="120" y="660" width="340" height="170" rx="12" fill="#FFE5E5" filter="url(#shadow)"/>
+  <text x="290" y="690" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#C0392B" text-anchor="middle">
+    ⏱️ RECUPERACIÓN
+  </text>
+  <text x="135" y="720" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Lactato: 30-60 min
+  </text>
+  <text x="135" y="745" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Glucógeno: 24-48h
+  </text>
+  <text x="135" y="770" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Daño muscular: 48-72h
+  </text>
+  <text x="290" y="805" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#E74C3C" text-anchor="middle">
+    🔄 Cardio activo acelera limpieza
+  </text>
+  
+  <!-- FATIGA CENTRAL -->
+  <rect x="600" y="130" width="420" height="720" rx="20" fill="url(#central)" opacity="0.15" filter="url(#shadow)"/>
+  
+  <rect x="640" y="160" width="340" height="60" rx="15" fill="url(#central)" filter="url(#shadow)"/>
+  <text x="810" y="200" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">
+    🧠 FATIGA CENTRAL
+  </text>
+  
+  <text x="810" y="250" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    📍 DÓNDE:
+  </text>
+  <text x="810" y="280" font-family="Arial, sans-serif" font-size="15" fill="white">
+    En el sistema nervioso (SNC)
+  </text>
+  
+  <rect x="640" y="310" width="340" height="180" rx="12" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  <text x="810" y="340" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#8E44AD" text-anchor="middle">
+    🔬 CAUSAS
+  </text>
+  <text x="655" y="370" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Reducción de drive neural
+  </text>
+  <text x="655" y="395" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Menor frecuencia de disparo
+  </text>
+  <text x="655" y="420" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Neurotransmisores ↓
+  </text>
+  <text x="655" y="445" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    &nbsp;&nbsp;(dopamina, serotonina)
+  </text>
+  <text x="655" y="470" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Sobrecarga cognitiva
+  </text>
+  
+  <rect x="640" y="510" width="340" height="130" rx="12" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  <text x="810" y="540" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#8E44AD" text-anchor="middle">
+    😫 SENSACIÓN
+  </text>
+  <text x="655" y="570" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • "No me dan ganas"
+  </text>
+  <text x="655" y="595" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Pérdida de concentración
+  </text>
+  <text x="655" y="620" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Músculo fresco, mente frita
+  </text>
+  
+  <rect x="640" y="660" width="340" height="170" rx="12" fill="#F4ECF7" filter="url(#shadow)"/>
+  <text x="810" y="690" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#8E44AD" text-anchor="middle">
+    ⏱️ RECUPERACIÓN
+  </text>
+  <text x="655" y="720" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Sueño: 7-9h (crítico)
+  </text>
+  <text x="655" y="745" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Descanso activo: paseos
+  </text>
+  <text x="655" y="770" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Nutrición cerebral (omega-3)
+  </text>
+  <text x="810" y="805" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#9B59B6" text-anchor="middle">
+    🎯 Deload / semana descarga
+  </text>
+  
+  <!-- Cuadro de aplicación práctica -->
+  <rect x="100" y="870" width="900" height="100" rx="15" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  
+  <text x="550" y="905" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2C3E50" text-anchor="middle">
+    🎯 APLICACIÓN PRÁCTICA: Orden de Ejercicios
+  </text>
+  
+  <text x="550" y="935" font-family="Arial, sans-serif" font-size="15" fill="#333" text-anchor="middle">
+    ⚡ Primero: Ejercicios complejos (requieren máximo drive neural) - Sentadilla, Press, Peso Muerto
+  </text>
+  <text x="550" y="960" font-family="Arial, sans-serif" font-size="15" fill="#333" text-anchor="middle">
+    💪 Después: Aislamiento (toleran fatiga periférica) - Curls, extensiones, elevaciones laterales
+  </text>
+  
+  <!-- Footer -->
+  <text x="550" y="990" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white" opacity="0.7">
+    Módulo 2.4 - Fisiología de la Fatiga | Curso de Optimización de Entrenamientos
+  </text>
+</svg>

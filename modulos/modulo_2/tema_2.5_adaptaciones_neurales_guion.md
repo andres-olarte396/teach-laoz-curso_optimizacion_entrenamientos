@@ -1,0 +1,76 @@
+# GUIÓN: Módulo 2 - Tema 2.5: Adaptaciones Neurales
+
+## FICHA TÉCNICA
+
+- **Duración Estimada**: 5-6 minutos
+- **Tono**: Fascinante, revelador.
+
+---
+
+### 00:00 - INTRODUCCIÓN
+
+**[LOCUTOR]**:
+Aquí va un misterio. Tienes a un powerlifter de 70 kilos, delgado. Y tienes a un culturista de 100 kilos, una montaña de músculo.
+Pones una barra en el suelo. El powerlifter levanta más.
+¿Cómo es posible? ¿No se supone que más músculo es más fuerza?
+La respuesta no está en el músculo. Está en el cableado.
+
+**[LOCUTOR]**:
+La fuerza es, ante todo, una señal eléctrica.
+Si eres principiante y ganas fuerza el primer mes, créeme, no te ha crecido el bíceps. Lo que ha pasado es que has aprendido a usar el bíceps que ya tenías.
+
+---
+
+### 00:50 - EL PRINCIPIO DEL TAMAÑO (HENNEMAN)
+
+**[LOCUTOR]**:
+Imagina tu cerebro como un General del ejército.
+Cuando vas a levantar un vaso de agua, el General manda a los soldados rasos: las fibras lentas. Son baratas y no se cansan.
+Si levantas algo más pesado, manda a las fuerzas especiales.
+Pero solo cuando la cosa se pone VITAL, cuando tienes que levantar un coche o hacer un récord personal, el General dice: "¡SAQUEN LOS TANQUES!". Y activa las Fibras Rápidas, las más fuertes.
+
+**[LOCUTOR]**:
+Esto es el Principio de Henneman. Si entrenas con pesas rosas y paras cuando empieza a picar, el General nunca saca los tanques. Y adivina qué fibras son las que más crecen. Exacto: los tanques.
+
+---
+
+### 01:50 - RATE CODING (AMETRALLADORA)
+
+**[LOCUTOR]**:
+Ahora, una vez que tenemos a todos los soldados despiertos, ¿cómo sacamos MÁS fuerza?
+Con el **Rate Coding** o Frecuencia de Disparo.
+El cerebro empieza a disparar la señal eléctrica más rápido. Como una ametralladora.
+En vez de decir "contrae... contrae", grita "¡CONTRAE-CONTRAE-CONTRAE!".
+Los atletas de élite hacen vibrar sus músculos a una frecuencia brutal.
+
+---
+
+### 02:30 - COORDINACIÓN INTERMUSCULAR
+
+**[LOCUTOR]**:
+Luego está la Coordinación.
+Para que tú extiendas la pierna, tu cuádriceps tiene que contraerse, sí. Pero tu isquio (el músculo opuesto) tiene que relajarse.
+En los novatos, el isquio se asusta y se contrae también. Es como pisar el freno y el acelerador a la vez.
+Entrenar enseña al músculo antagonista a "quitarse de en medio".
+
+---
+
+### 03:15 - QUITAR EL FRENO DE MANO (GTO)
+
+**[LOCUTOR]**:
+Y finalmente, la Inhibición Autogénica.
+Tus tendones tienen unos sensores llamados Órganos de Golgi. Su trabajo es gritar: "¡Cuidado! ¡Demasiada tensión! ¡Apaga el músculo que nos rompemos!".
+Es un mecanismo de seguridad.
+Pero a veces es demasiado conservador. Es un padre sobreprotector.
+El entrenamiento de fuerza máxima le enseña a ese sensor que es SEGURO soportar cargas altas. Le quita el freno de mano a tu cuerpo.
+
+---
+
+### RESUMEN
+
+**[LOCUTOR]**:
+Así que recuerda:
+La fuerza tiene dos componentes.
+Hardware: El tamaño del motor (Hipertrofia).
+Software: La habilidad del conductor (Neural).
+Al principio, todo es actualización de Software. Disfruta del viaje.

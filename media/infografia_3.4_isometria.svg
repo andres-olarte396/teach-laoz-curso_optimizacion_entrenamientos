@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1000" style="background: linear-gradient(135deg, #0F2027 0%, #203A43 50%, #2C5364 100%);">
+  <defs>
+    <linearGradient id="yielding" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F59E0B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D97706;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="overcoming" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EF4444;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#DC2626;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-opacity="0.5"/>
+    </filter>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Título -->
+  <text x="550" y="55" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="middle">
+    💪 FUERTE COMO UNA PARED
+  </text>
+  <text x="550" y="90" font-family="Arial, sans-serif" font-size="18" fill="#B0D4FF" text-anchor="middle">
+    Entrenamiento Isométrico Avanzado - Tensión SIN Movimiento
+  </text>
+  
+  <!-- Comparación Central -->
+  <line x1="550" y1="120" x2="550" y2="700" stroke="white" stroke-width="4" stroke-dasharray="15,10" opacity="0.3"/>
+  
+  <!-- YIELDING ISOMETRIC -->
+  <rect x="80" y="130" width="420" height="570" rx="20" fill="url(#yielding)" opacity="0.15" filter="url(#shadow)"/>
+  
+  <rect x="120" y="160" width="340" height="70" rx="15" fill="url(#yielding)" filter="url(#shadow)"/>
+  <text x="290" y="210" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="white" text-anchor="middle">
+    🛡️ YIELDING ISOMETRIC
+  </text>
+  
+  <text x="290" y="265" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    "SOSTENER / CEDER"
+  </text>
+  <text x="290" y="290" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">
+    Aguantar un peso para que NO caiga
+  </text>
+  
+  <rect x="120" y="310" width="340" height="140" rx="12" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  <text x="290" y="340" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#D97706" text-anchor="middle">
+    ⚙️ MECÁNICA
+  </text>
+  <text x="140" y="370" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Luchas CONTRA la gravedad
+  </text>
+  <text x="140" y="395" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Resistencia muscular activa
+  </text>
+  <text x="140" y="420" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Oclusión vascular (hipertrofia)
+  </text>
+  
+  <rect x="120" y="465" width="340" height="110" rx="12" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  <text x="290" y="495" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#D97706" text-anchor="middle">
+    📋 EJEMPLOS
+  </text>
+  <text x="140" y="525" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Plancha (30-60 seg)
+  </text>
+  <text x="140" y="550" font-family="Arial, sans-serif" font-size="14" fill="333">
+    • Sentadilla con pausa
+  </text>
+  <text x="140" y="575" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Wall Sit (aguantar en la pared)
+  </text>
+  
+  <rect x="120" y="590" width="340" height="90" rx="12" fill="#FEF3C7" filter="url(#shadow)"/>
+  <text x="290" y="620" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#92400E" text-anchor="middle">
+    🎯 OBJETIVO
+  </text>
+  <text x="290" y="645" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    ✅ Resistencia muscular
+  </text>
+  <text x="290" y="665" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    ✅ Salud tendinosa (30-45s)
+  </text>
+  
+  <!-- OVERCOMING ISOMETRIC -->
+  <rect x="600" y="130" width="420" height="570" rx="20" fill="url(#overcoming)" opacity="0.15" filter="url(#shadow)"/>
+  
+  <rect x="640" y="160" width="340" height="70" rx="15" fill="url(#overcoming)" filter="url(#shadow)"/>
+  <text x="810" y="210" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="white" text-anchor="middle">
+    ⚡ OVERCOMING ISOMETRIC
+  </text>
+  
+  <text x="810" y="265" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+    "VENCER / EMPUJAR"
+  </text>
+  <text x="810" y="290" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">
+    Empujar objeto INAMOVIBLE
+  </text>
+  
+  <rect x="640" y="310" width="340" height="140" rx="12" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  <text x="810" y="340" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#DC2626" text-anchor="middle">
+    ⚙️ MECÁNICA
+  </text>
+  <text x="660" y="370" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Empujas con INTENCIÓN máxima
+  </text>
+  <text x="660" y="395" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • No hay movimiento (objeto fijo)
+  </text>
+  <text x="660" y="420" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Reclutamiento neural 100%
+  </text>
+  
+  <rect x="640" y="465" width="340" height="110" rx="12" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  <text x="810" y="495" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#DC2626" text-anchor="middle">
+    📋 EJEMPLOS
+  </text>
+  <text x="660" y="525" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Empujar barra contra pines (6s)
+  </text>
+  <text x="660" y="550" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Empujar pared (máxima fuerza)
+  </text>
+  <text x="660" y="575" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • Tirar barra clavada al suelo
+  </text>
+  
+  <rect x="640" y="590" width="340" height="90" rx="12" fill="#FEE2E2" filter="url(#shadow)"/>
+  <text x="810" y="620" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#991B1B" text-anchor="middle">
+    🎯 OBJETIVO
+  </text>
+  <text x="810" y="645" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    ⚡ FUERZA NEURAL PURA
+  </text>
+  <text x="810" y="665" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    ⚡ Romper estancamientos
+  </text>
+  
+  <!-- Aplicaciones Prácticas -->
+  <rect x="80" y="730" width="940" height="210" rx="20" fill="white" opacity="0.95" filter="url(#shadow)"/>
+  
+  <text x="550" y="770" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#0F2027" text-anchor="middle">
+    🎯 APLICACIONES PRÁCTICAS
+  </text>
+  
+  <!-- Yielding - Salud Tendinosa -->
+  <rect x="110" y="790" width="430" height="130" rx="12" fill="#FEF3C7"/>
+  <text x="325" y="820" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#92400E" text-anchor="middle">
+    🛡️ YIELDING → Salud Tendinosa
+  </text>
+  <text x="130" y="850" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    💊 Protocolo: Spanish Squat isométrico
+  </text>
+  <text x="130" y="875" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    &nbsp;&nbsp;&nbsp;&nbsp;x 45 seg antes de entrenar pierna
+  </text>
+  <text x="130" y="905" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#D97706">
+    ✅ Analgésico para tendinopatías (rodilla)
+  </text>
+  
+  <!-- Overcoming - Sticking Points -->
+  <rect x="560" y="790" width="430" height="130" rx="12" fill="#FEE2E2"/>
+  <text x="775" y="820" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#991B1B" text-anchor="middle">
+    ⚡ OVERCOMING → Romper Bloqueos
+  </text>
+  <text x="580" y="850" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    🎯 Problema: Te atascas a mitad de banca
+  </text>
+  <text x="580" y="875" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    💥 Solución: Barra contra pines a esa
+  </text>
+  <text x="580" y="895" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    &nbsp;&nbsp;&nbsp;&nbsp;altura, empuja 100% x 6 seg
+  </text>
+  
+  <!-- Footer con resumen -->
+  <rect x="80" y="955" width="940" height="25" rx="10" fill="#FBBF24"/>
+  <text x="550" y="974" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#78350F" text-anchor="middle">
+    💡 La isometría NO es "no hacer nada". Yielding = Tejido | Overcoming = Sistema Nervioso
+  </text>
+  
+  <!-- Footer -->
+  <text x="550" y="995" font-family="Arial, sans-serif" font-size="13" text-anchor="middle" fill="white" opacity="0.7">
+    Módulo 3.4 - Entrenamiento Isométrico Avanzado | Curso de Optimización de Entrenamientos
+  </text>
+</svg>

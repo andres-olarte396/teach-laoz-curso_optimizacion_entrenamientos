@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1150 900">
+  <defs>
+    <linearGradient id="m1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#14b8a6"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <rect width="1150" height="900" fill="#0b1220"/>
+  <text x="575" y="70" fill="#e5e7eb" font-size="36" text-anchor="middle" font-family="Inter,Segoe UI">Mindfulness y Visualización</text>
+
+  <g filter="url(#shadow)">
+    <rect x="80" y="120" width="990" height="320" rx="16" fill="#111827" stroke="#1f2937"/>
+    <text x="100" y="155" fill="#9ca3af" font-size="18">Beneficios</text>
+    <text x="100" y="185" fill="#e5e7eb" font-size="16">• Atención y foco</text>
+    <text x="100" y="215" fill="#e5e7eb" font-size="16">• Reducción del estrés</text>
+    <text x="100" y="245" fill="#e5e7eb" font-size="16">• Mejora del rendimiento mental</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="80" y="470" width="990" height="330" rx="16" fill="#111827" stroke="#1f2937"/>
+    <text x="100" y="505" fill="#9ca3af" font-size="18">Prácticas</text>
+    <text x="100" y="535" fill="#e5e7eb" font-size="16">• Respiración 4-7-8</text>
+    <text x="100" y="565" fill="#e5e7eb" font-size="16">• Visualización del levantamiento perfecto</text>
+    <text x="100" y="595" fill="#e5e7eb" font-size="16">• Escaneo corporal</text>
+  </g>
+</svg>

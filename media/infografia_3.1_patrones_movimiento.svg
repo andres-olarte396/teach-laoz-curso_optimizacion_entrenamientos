@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 950" style="background: linear-gradient(135deg, #232526 0%, #414345 100%);">
+  <defs>
+    <linearGradient id="squat" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B6B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#C92A2A;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="hinge" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F59E0B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D97706;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="push" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1D4ED8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="pull" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10B981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="lunge" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6D28D9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="core" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EC4899;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#BE185D;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  
+  <!-- Título -->
+  <text x="550" y="50" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="white" text-anchor="middle">
+    📚 EL ALFABETO DEL MOVIMIENTO
+  </text>
+  <text x="550" y="85" font-family="Arial, sans-serif" font-size="18" fill="#B0D4FF" text-anchor="middle">
+    6 Patrones Fundamentales - Todas las palabras se escriben con estas letras
+  </text>
+  
+  <!-- Fila 1. SQUAT y HINGE -->
+  <rect x="80" y="120" width="450" height="240" rx="20" fill="url(#squat)" opacity="0.95" filter="url(#shadow)"/>
+  <text x="305" y="160" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">
+    🪑 SQUAT (Dominante Rodilla)
+  </text>
+  <text x="305" y="195" font-family="Arial, sans-serif" font-size="15" fill="white" text-anchor="middle">
+    "Sentarse y levantarse"
+  </text>
+  <text x="110" y="230" font-family="Arial, sans-serif" font-size="14" fill="white">
+    💪 Músculos: Cuádriceps (rey), Glúteo
+  </text>
+  <text x="110" y="255" font-family="Arial, sans-serif" font-size="14" fill="white">
+    🔧 Mecánica: Rodilla + Cadera flex
+  </text>
+  <text x="110" y="280" font-family="Arial, sans-serif" font-size="14" fill="white">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Torso vertical
+  </text>
+  <text x="110" y="310" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#FFE5E5">
+    📋 Ejemplos:
+  </text>
+  <text x="110" y="335" font-family="Arial, sans-serif" font-size="13" fill="white">
+    Sentadilla, Prensa, Zancada corta
+  </text>
+  
+  <rect x="570" y="120" width="450" height="240" rx="20" fill="url(#hinge)" opacity="0.95" filter="url(#shadow)"/>
+  <text x="795" y="160" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">
+    🔨 HINGE (Dominante Cadera)
+  </text>
+  <text x="795" y="195" font-family="Arial, sans-serif" font-size="15" fill="white" text-anchor="middle">
+    "Bisagra - Recoger del suelo"
+  </text>
+  <text x="600" y="230" font-family="Arial, sans-serif" font-size="14" fill="white">
+    💪 Músculos: Isquios, Glúteos (cadena post.)
+  </text>
+  <text x="600" y="255" font-family="Arial, sans-serif" font-size="14" fill="white">
+    🔧 Mecánica: Cadera flex MAX
+  </text>
+  <text x="600" y="280" font-family="Arial, sans-serif" font-size="14" fill="white">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rodilla flex MÍN (tibia vertical)
+  </text>
+  <text x="600" y="310" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#FFF4E5">
+    📋 Ejemplos:
+  </text>
+  <text x="600" y="335" font-family="Arial, sans-serif" font-size="13" fill="white">
+    Peso Muerto, RDL, Hip Thrust, Buenos Días
+  </text>
+  
+  <!-- Fila 2: PUSH y PULL -->
+  <rect x="80" y="390" width="450" height="240" rx="20" fill="url(#push)" opacity="0.95" filter="url(#shadow)"/>
+  <text x="305" y="430" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">
+    ➡️ PUSH (Empuje)
+  </text>
+  <text x="305" y="465" font-family="Arial, sans-serif" font-size="15" fill="white" text-anchor="middle">
+    "Alejar la carga del cuerpo"
+  </text>
+  <text x="110" y="500" font-family="Arial, sans-serif" font-size="14" fill="white">
+    🔹 Horizontal: Pectoral, Deltoides Ant.
+  </text>
+  <text x="110" y="525" font-family="Arial, sans-serif" font-size="14" fill="white">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Press Banca, Push-up
+  </text>
+  <text x="110" y="555" font-family="Arial, sans-serif" font-size="14" fill="white">
+    🔸 Vertical: Deltoides, Tríceps
+  </text>
+  <text x="110" y="580" font-family="Arial, sans-serif" font-size="14" fill="white">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Press Militar, Press Hombro
+  </text>
+  <text x="110" y="610" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#DBEAFE">
+    ✅ Clave: Perpendicular (H) vs Paralelo (V) al torso
+  </text>
+  
+  <rect x="570" y="390" width="450" height="240" rx="20" fill="url(#pull)" opacity="0.95" filter="url(#shadow)"/>
+  <text x="795" y="430" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">
+    ⬅️ PULL (Tracción)
+  </text>
+  <text x="795" y="465" font-family="Arial, sans-serif" font-size="15" fill="white" text-anchor="middle">
+    "Acercar la carga al cuerpo"
+  </text>
+  <text x="600" y="500" font-family="Arial, sans-serif" font-size="14" fill="white">
+    🔹 Horizontal: Dorsal, Romboides (DENSIDAD)
+  </text>
+  <text x="600" y="525" font-family="Arial, sans-serif" font-size="14" fill="white">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Remo barra, Remo polea
+  </text>
+  <text x="600" y="555" font-family="Arial, sans-serif" font-size="14" fill="white">
+    🔸 Vertical: Dorsal fibras ilíacas (AMPLITUD)
+  </text>
+  <text x="600" y="580" font-family="Arial, sans-serif" font-size="14" fill="white">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Dominadas, Jalón al pecho
+  </text>
+  <text x="600" y="610" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#D1FAE5">
+    ✅ Clave: Horizontal = grosor / Vertical = anchura
+  </text>
+  
+  <!-- Fila 3: LUNGE y CORE -->
+  <rect x="80" y="660" width="450" height="240" rx="20" fill="url(#lunge)" opacity="0.95" filter="url(#shadow)"/>
+  <text x="305" y="700" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">
+    🦵 LUNGE (Unilateral)
+  </text>
+  <text x="305" y="735" font-family="Arial, sans-serif" font-size="15" fill="white" text-anchor="middle">
+    "Una pierna a la vez - Estabilidad"
+  </text>
+  <text x="110" y="770" font-family="Arial, sans-serif" font-size="14" fill="white">
+    🔧 Mecánica: Disociar caderas
+  </text>
+  <text x="110" y="795" font-family="Arial, sans-serif" font-size="14" fill="white">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(una flexión, otra extensión)
+  </text>
+  <text x="110" y="825" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#F3E8FF">
+    📋 Ejemplos:
+  </text>
+  <text x="110" y="850" font-family="Arial, sans-serif" font-size="13" fill="white">
+    Split Squat Búlgaro, Step-up, Zancada
+  </text>
+  <text x="110" y="880" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FDE68A">
+    ⚡ Bonus: Activa core oblicuos masivo
+  </text>
+  
+  <rect x="570" y="660" width="450" height="240" rx="20" fill="url(#core)" opacity="0.95" filter="url(#shadow)"/>
+  <text x="795" y="700" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">
+    🌀 CORE (Rotación/Anti-Rotación)
+  </text>
+  <text x="795" y="735" font-family="Arial, sans-serif" font-size="15" fill="white" text-anchor="middle">
+    "FRENAR y transferir fuerza"
+  </text>
+  <text x="600" y="770" font-family="Arial, sans-serif" font-size="14" fill="white">
+    🛡️ Anti-Extensión: Plancha, Dead Bug
+  </text>
+  <text x="600" y="795" font-family="Arial, sans-serif" font-size="14" fill="white">
+    🛡️ Anti-Rotación: Pallof Press
+  </text>
+  <text x="600" y="820" font-family="Arial, sans-serif" font-size="14" fill="white">
+    🌪️ Rotación: Woodchops, Russian Twist
+  </text>
+  <text x="600" y="855" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FCE7F3">
+    ⚠️ Core NO es hacer 500 abdominales
+  </text>
+  <text x="600" y="880" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FCE7F3">
+    ✅ Es proteger columna y transferir potencia
+  </text>
+  
+  <!-- Footer -->
+  <text x="550" y="930" font-family="Arial, sans-serif" font-size="13" text-anchor="middle" fill="white" opacity="0.7">
+    Módulo 3.1 - Patrones de Movimiento Fundamentales | Curso de Optimización de Entrenamientos
+  </text>
+</svg>

@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1150" style="background: linear-gradient(135deg, #434343 0%, #000000 100%);">
+  <defs>
+    <linearGradient id="preactivacion" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#34D399;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#10B981;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="prefatiga" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F59E0B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D97706;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="postfatiga" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1D4ED8;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  
+  <!-- Título -->
+  <text x="550" y="50" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="middle">
+    ☕ CAFÉ vs 💣 EMBOSCADA
+  </text>
+  <text x="550" y="85" font-family="Arial, sans-serif" font-size="18" fill="#D1D5DB" text-anchor="middle">
+    Pre-Activación y Pre-Fatiga - NO son lo mismo aunque suene igual
+  </text>
+  
+  <!-- Advertencia inicial -->
+  <rect x="80" y="110" width="940" height="60" rx="15" fill="#FEF3C7" filter="url(#shadow)"/>
+  <text x="550" y="135" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#92400E" text-anchor="middle">
+    ⚠️ CONFUSIÓN COMÚN: Pre-Activación ≠ Pre-Fatiga
+  </text>
+  <text x="550" y="160" font-family="Arial, sans-serif" font-size="14" fill="#78350F" text-anchor="middle">
+    Una DESPIERTA sin cansar | La otra DESTRUYE intencionalmente
+  </text>
+  
+  <!-- PRE-ACTIVACIÓN -->
+  <rect x="80" y="195" width="940" height="280" rx="20" fill="url(#preactivacion)" opacity="0.95" filter="url(#shadow)"/>
+  
+  <text x="550" y="235" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white" text-anchor="middle">
+    ☕ PRE-ACTIVACIÓN (El Café Matutino)
+  </text>
+  
+  <rect x="110" y="260" width="880" height="190" rx="15" fill="white" opacity="0.95"/>
+  
+  <text x="550" y="295" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#059669" text-anchor="middle">
+    🎯 OBJETIVO: Despertar músculo dormido para que trabaje MEJOR
+  </text>
+  
+  <text x="140" y="330" font-family="Arial, sans-serif" font-size="15" fill="#333">
+    🔹 Protocolo: Aislamiento ligero, lejos del fallo, foco en CONTRACCIÓN
+  </text>
+  <text x="140" y="358" font-family="Arial, sans-serif" font-size="15" fill="#333">
+    🔹 Cuándo: Músculo "tonto" o inhibido (Glúteo amnésico, Trapecio inferior débil)
+  </text>
+  
+  <rect x="140" y="380" width="820" height="50" rx="10" fill="#D1FAE5"/>
+  <text x="550" y="410" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#065F46" text-anchor="middle">
+    💡 EJEMPLO: Hombro duele en Press Banca, no siento pecho
+  </text>
+  
+  <text x="140" y="440" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    ✅ Solución: 2 series de Facepulls + Aperturas con banda (ligeras) ANTES de banca
+  </text>
+  
+  <!-- PRE-FATIGA -->
+  <rect x="80" y="500" width="940" height="320" rx="20" fill="url(#prefatiga)" opacity="0.95" filter="url(#shadow)"/>
+  
+  <text x="550" y="540" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white" text-anchor="middle">
+    💣 PRE-FATIGA (La Emboscada)
+  </text>
+  
+  <rect x="110" y="565" width="880" height="230" rx="15" fill="white" opacity="0.95"/>
+  
+  <text x="550" y="600" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#D97706" text-anchor="middle">
+    🎯 OBJETIVO: Cansar músculo para que FALLE primero en compuesto
+  </text>
+  
+  <text x="140" y="635" font-family="Arial, sans-serif" font-size="15" fill="#333">
+    🔹 Protocolo: Aislamiento AL FALLO justo ANTES del compuesto
+  </text>
+  <text x="140" y="663" font-family="Arial, sans-serif" font-size="15" fill="#333">
+    🔹 Lógica: Evitar que otro músculo (espalda baja) se canse antes que el target
+  </text>
+  
+  <rect x="140" y="685" width="820" height="90" rx="10" fill="#FEF3C7"/>
+  <text x="550" y="715" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#92400E" text-anchor="middle">
+    💡 EJEMPLO: En Sentadilla, espalda baja se cansa antes que piernas
+  </text>
+  <text x="140" y="740" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    ✅ Solución: Extensiones de Cuádriceps (3×15 al fallo) → Sentadilla inmediata
+  </text>
+  <text x="140" y="765" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    &nbsp;&nbsp;&nbsp;&nbsp;Resultado: Piernas fallan con menos peso, espalda no es limitante
+  </text>
+  
+  <!-- POST-FATIGA (La Alternativa Segura) -->
+  <rect x="80" y="845" width="940" height="230" rx="20" fill="url(#postfatiga)" opacity="0.95" filter="url(#shadow)"/>
+  
+  <text x="550" y="885" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white" text-anchor="middle">
+    🎯 POST-FATIGA (El Estándar de Oro)
+  </text>
+  
+  <rect x="110" y="910" width="880" height="140" rx="15" fill="white" opacity="0.95"/>
+  
+  <text x="550" y="945" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1D4ED8" text-anchor="middle">
+    🏆 OBJETIVO: Seguridad + Hipertrofia máxima
+  </text>
+  
+  <text x="140" y="980" font-family="Arial, sans-serif" font-size="15" fill="#333">
+    🔹 Protocolo: Compuesto PESADO primero (técnica fresca) → Aislamiento después
+  </text>
+  <text x="140" y="1008" font-family="Arial, sans-serif" font-size="15" fill="#333">
+    🔹 Ventaja: Maximiza fuerza en pesado (seguro) + estrés metabólico al final
+  </text>
+  
+  <rect x="140" y="1025" width="820" height="20" rx="8" fill="#DBEAFE"/>
+  <text x="550" y="1040" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1E3A8A" text-anchor="middle">
+    💡 EJEMPLO: Sentadilla (pesada) → Extensiones (remate metabólico)
+  </text>
+  
+  <!-- Resumen Comparativo -->
+  <rect x="80" y="1095" width="940" height="25" rx="10" fill="#FBBF24"/>
+  <text x="550" y="1114" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#78350F" text-anchor="middle">
+    ✅ Pre-Activación: SIEMPRE buena | ⚠️ Pre-Fatiga: Avanzada, máquinas seguras | 🏆 Post-Fatiga: Mejor para mayoría
+  </text>
+  
+  <!-- Footer -->
+  <text x="550" y="1140" font-family="Arial, sans-serif" font-size="13" text-anchor="middle" fill="white" opacity="0.7">
+    Módulo 3.6 - Pre-Activación y Pre-Fatiga | Curso de Optimización de Entrenamientos
+  </text>
+</svg>

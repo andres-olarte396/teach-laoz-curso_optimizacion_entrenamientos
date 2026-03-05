@@ -1,0 +1,18 @@
+# Guion Educativo: Termoterapia (Tema 9.2)
+
+**Personaje**: Entrenador Experto.
+**Duración Estimada**: 3 minutos.
+
+---
+
+**(00:00 - 00:30)**
+**LOCUTOR**: Fuego y Hielo. Desde los romanos usamos temperatura para curarnos. Pero, ¿cuándo usar calor y cuándo frío? Si te equivocas, puedes frenar tus ganancias.
+
+**(00:30 - 01:15)**
+**LOCUTOR**: El Hielo (Crioterapia) es un potente antiinflamatorio y analgésico. PERO... la inflamación es necesaria para crecer. Si te metes en una bañera de hielo justo después de entrenar hipertrofia, apagas la señal de crecimiento. Úsalo para dolor agudo o recuperación rápida en competición, no para ganar masa.
+
+**(01:15 - 02:00)**
+**LOCUTOR**: La Sauna (Calor) es maravillosa. Aumenta la hormona de crecimiento y el flujo sanguíneo. Es cardioprotectora. Una sesión de sauna post-entreno (separada del hielo) es una gran estrategia de longevidad.
+
+**(02:00 - 02:45)**
+**LOCUTOR**: La Terapia de Contraste (Frío-Calor) crea un efecto de bombeo vascular. Ideal para refrescar las piernas pesadas sin congelar la hipertrofia. Usa las herramientas con sabiduría.
